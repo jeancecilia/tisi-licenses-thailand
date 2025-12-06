@@ -1,0 +1,701 @@
+ลำดับ,เลขที่ มอก.,ชื่อ มอก. ภาษาไทย,ชื่อ มอก. ภาษาอังกฤษ,ประเภทมาตรฐาน,จำนวนใบอนุญาตทำ,จำนวนผู้ประกอบการทำ,จำนวนใบอนุญาตนำเข้า,จำนวนผู้ประกอบการนำเข้า,จำนวนใบอนุญาตแสดง,จำนวนผู้ประกอบการแสดง,จำนวนใบอนุญาตทั้งหมด
+1,1955-2551,บริภัณฑ์ส่องสว่างและบริภัณฑ์ที่คล้ายกัน : ขีดจำกัดสัญญาณรบกวนวิทยุ,Lighting and similar equipment : radio disturbance limits,บังคับ,890,219,4719,847,0,0,5609
+2,2217-2548,เซลล์และแบตเตอรี่ทุติยภูมิที่มีอิเล็กโทรไลต์แอลคาไลน์หรืออิเล็กโทรไลต์อื่นที่ไม่ใช่กรด สำหรับการใช้งานแบบพกพา เฉพาะด้านความปลอดภัย,"Secondary cells and batteries containing alkaline or other non-acid electrolytes - safety requirements for portable sealed secondary cells, and for batteries made from them, for use in portable applications",บังคับ,10,8,1706,404,0,0,1716
+3,2508-2555,กระเบื้องเซรามิก,Ceramic tiles,บังคับ,21,11,1590,197,0,0,1611
+4,685 เล่ม 1-2562,ของเล่น: เฉพาะด้านความปลอดภัย เล่ม 1 ข้อกำหนด,Toys: Safety requiements Part 1 - Requirements,บังคับ,149,148,1443,399,0,0,1592
+5,213-2560,คอนกรีตผสมเสร็จ,Ready-mixed concrete,ทั่วไป,0,0,0,0,1432,962,1432
+6,2134-2553,เครื่องปรับอากาศสำหรับห้อง : ประสิทธิภาพพลังงาน,Room air conditioners : energy efficiency,บังคับ,729,39,187,65,0,0,916
+7,655 เล่ม 1-2553,ภาชนะและเครื่องใช้พลาสติกสำหรับอาหาร เล่ม 1 พอลิเอทิลีน พอลิพรอพิลีน พอลิสไตรีน พอลิเอทิลีนเทเรฟแทเลต พอลิไวนิลแอลกอฮอล์ และพอลิเมทิลเพนทีน,"Plastic utensils for food part 1 Polyethylene, Polpropylene, Polystyrene, Poly (Ethlene Terephthalate), Poly (Vinyl Alcohol) and Poly (Methyl Pentene)",บังคับ,429,398,375,204,0,0,804
+8,2721-2560,ยางล้อสูบลม : ข้อกำหนดด้านเสียงจากยางล้อที่สัมผัสผิวถนน การยึดเกาะถนนบนพื้นเปียก และความต้านทานการหมุน,Rolling sound emission adhesion on wet surfaces and rolling resistance,บังคับ,26,20,736,154,0,0,762
+9,62368 เล่ม 1-2563,บริภัณฑ์เสียง วีดิทัศน์ บริภัณฑ์เทคโนโลยีสารสนเทศและการสื่อสาร เล่ม 1 ข้อกำหนดด้านความปลอดภัย,"Audio/video, information and communication technology equipment - Part 1: safety requirements",บังคับ,31,30,627,225,0,0,658
+10,1641-2552,เตาย่าง เตาปิ้ง และเครื่องทำอาหารเคลื่อนย้ายได้ที่คล้ายกัน เฉพาะด้านความปลอดภัย,"Grills, toasters and similar portable cooking appliances - safety requirements",บังคับ,31,21,621,166,0,0,652
+11,2718-2560,ยางล้อแบบสูบลมสำหรับรถยนต์และส่วนพ่วง,Pneumatic Tyres for motor vehicles and their trailers,บังคับ,20,17,590,100,0,0,610
+12,396-2549,เสาเข็มคอนกรีตเสริมเหล็กอัดแรงหล่อสำเร็จ,Precast prestressed concrete piles,ทั่วไป,0,0,0,0,609,351,609
+13,2066-2552,ฝักบัวอาบน้ำ เฉพาะด้านสิ่งแวดล้อม : การประหยัดน้ำ,Shower units : environment requirements : water-savings,บังคับ,42,27,564,187,0,0,606
+14,812-2558,มอเตอร์คอมเพรสเซอร์ เฉพาะด้านความปลอดภัย,Motor-compressors : safety requirements,บังคับ,15,9,583,116,0,0,598
+15,934-2558,พัดลมไฟฟ้ากระแสสลับ - คุณลักษณะที่ต้องการด้านความปลอดภัย,A.C. electric fans: safety requirements,บังคับ,144,103,433,236,0,0,577
+16,2067-2552,ก๊อกน้ำสำหรับเครื่องสุขภัณฑ์ เฉพาะด้านสิ่งแวดล้อม : การประหยัดน้ำ,Faucets for sanitary wares : environment requirements : water-savings,บังคับ,76,25,487,148,0,0,563
+17,828-2546,ชิ้นส่วนคอนกรีตเสริมเหล็กอัดแรงหล่อสำเร็จสำหรับระบบพื้นประกอบ,Precast prestressed concrete elements for composite floor systems,ทั่วไป,0,0,0,0,548,381,548
+18,1479-2558,เหล็กกล้าทรงแบนรีดร้อน สำหรับงานโครงสร้างทั่วไป,Hot rolled flat steel for general structure,บังคับ,93,65,407,96,0,0,500
+19,128-2560,ท่อคอนกรีตเสริมเหล็กหล่อสำเร็จสำหรับงานระบายน้ำ,Precast reinforced concrete drainage pipe,ทั่วไป,0,0,0,0,457,439,457
+20,2719-2560,ยางล้อแบบสูบลม สำหรับรถยนต์เชิงพาณิชย์และส่วนพ่วง,Pneumatic tyres for commercial vehicles and their trailers,บังคับ,24,20,420,116,0,0,444
+21,918-2535,อุปกรณ์และข้อต่อเหล็กหล่อเทาสำหรับท่อส่งน้ำชนิดทนความดัน,Grey iron pipe fittings for water pressure lines,ทั่วไป,0,0,0,0,395,24,395
+22,1039-2547,หม้อหุงข้าวไฟฟ้า เฉพาะด้านความปลอดภัย,Electric rice-cookers : safety requirements,บังคับ,98,29,291,116,0,0,389
+23,2012-2558,เหล็กกล้าทรงแบนรีดเย็น สำหรับงานทั่วไปและงานดึงขึ้นรูป,Cold reduced flat steel of commercial and drawing qualities,บังคับ,75,55,303,86,0,0,378
+24,2602-2556,กระจกนิรภัยสำหรับยานยนต์,Safety glazing materials for vehicles,บังคับ,26,13,345,57,0,0,371
+25,792-2554,เครื่องสุขภัณฑ์เซรามิก : โถส้วมนั่งราบ,Ceramic sanitary wares : water closet,บังคับ,19,13,337,97,0,0,356
+26,366-2547,เตารีดไฟฟ้า เฉพาะด้านความปลอดภัย,Electric irons : safety requirement,บังคับ,39,21,304,68,0,0,343
+27,1773-2548,เตาไมโครเวฟสำหรับใช้ในที่อยู่อาศัย เฉพาะด้านความปลอดภัย,Microwave ovens safety requirements,บังคับ,48,6,280,49,0,0,328
+28,528-2560,เหล็กกล้าทรงแบนรีดร้อน สำหรับงานทั่วไปและงานดึงขึ้นรูป,Hot-rolled flat steel of commercial and drawing qualities,บังคับ,77,61,249,83,0,0,326
+29,2166-2548,เคเบิลเส้นใยนำแสง เล่ม 3-20 : เคเบิลภายนอกอาคาร -ข้อกำหนดคุณลักษณะเป็นรายกลุ่มสำหรับเคเบิลเส้นใยนำแสงโทรคมนาคม แขวนในอากาศรับน้ำหนักตัวเองได้,Optical fiber cables - Part 3-20: outdoor cables - family specification for optical self-supporting aerial telecommunication cables,บังคับ,39,8,237,80,0,0,276
+30,166-2549,เต้าเสียบและเต้ารับสำหรับใช้ในที่อยู่อาศัยและงานทั่วไปที่มีจุดประสงค์คล้ายกัน : เต้าเสียบและเต้ารับที่มีแรงดันไฟฟ้าที่กำหนดไม่เกิน 250 โวลต์,Plugs and socket-outlets for household and similar purposes : plugs and socket-outlets with rated voltage not exceeding 250 V,บังคับ,65,57,160,86,0,0,225
+31,50-2565,เหล็กกล้าทรงแบนรีดเย็นเคลือบสังกะสีโดยกรรมวิธีจุ่มร้อน,Hot-dip zinc-coated cold reduced flat steel,บังคับ,62,50,154,77,0,0,216
+32,1999-2560,เหล็กกล้าทรงแบนรีดร้อน สำหรับงานโครงสร้างรถยนต์,Hot-Rolled Flat Steel For Automobile Structural Uses,บังคับ,51,38,162,47,0,0,213
+33,824-2551,สวิตช์ไฟฟ้าใช้ในที่อยู่อาศัยและสิ่งติดตั้งทางไฟฟ้ายึดกับที่ที่คล้ายกัน : ข้อกำหนดทั่วไป,Switches for household and similar fixed electical installations : general requirements,บังคับ,35,17,176,69,0,0,211
+34,1693-2547,เครื่องทำน้ำร้อนไฟฟ้า น้ำผ่านร้อนทันที เฉพาะด้านความปลอดภัย,Instantaneous water heaters : safety requirements,บังคับ,71,15,135,49,0,0,206
+35,721-2551,เข็มขัดนิรภัยสำหรับรถยนต์,Safety - belts for automobiles,บังคับ,22,6,182,52,0,0,204
+36,2432-2555,เต้าเสียบและเต้ารับสำหรับใช้ในที่อยู่อาศัยและงานทั่วไปที่มีจุดประสงค์คล้ายกัน : ชุดสายพ่วง,Plugs and socket - outlets for household and similar purposes : cord extention sets,บังคับ,72,48,122,79,0,0,194
+37,2780-2562,หลอดแอลอีดีมีบัลลาสต์ในตัวสำหรับการให้แสงสว่างทั่วไป ด้วยแรงดันไฟฟ้ามากกว่า 50 V - คุณลักษณะที่ต้องการด้านความปลอดภัย,Self-ballasted LED-lamps for general lighting services by voltage > 50 V - Safety specifications,บังคับ,11,11,181,119,0,0,192
+38,2879-2560,แบตเตอรี่สำรองไฟฟ้าสำหรับการใช้งานแบบพกพา - คุณลักษณะที่ต้องการด้านความปลอดภัย,Portable power bank - safety requirements,บังคับ,12,10,171,109,0,0,183
+39,965-2560,กระจกเทมเปอร์,Tempered glass,บังคับ,52,47,128,70,0,0,180
+40,2493 เล่ม 2-2556,ภาชนะพลาสติกบรรจุอาหารสำหรับเตาไมโครเวฟ เล่ม 2 สำหรับการอุ่นครั้งเดียว,Plastic food containers for microwave Part 2 for single reheating,บังคับ,117,104,60,37,0,0,177
+41,1463-2556,เครื่องซักผ้าใช้ในที่อยู่อาศัย - คุณลักษณะที่ต้องการด้านความปลอดภัย,Clothes washing machines for household use : safety requirements,บังคับ,21,11,155,44,0,0,176
+42,2720-2560,ยางล้อแบบสูบลมสำหรับรถจักรยานยนต์และโมเปด,Pneumatic tyres for motor cycles and mopeds,บังคับ,21,18,150,66,0,0,171
+43,60335 เล่ม 2(65)-2564,ความปลอดภัยของเครื่องใช้ไฟฟ้าสำหรับใช้ในที่อยู่อาศัยและเครื่องใช้ไฟฟ้าอื่นที่คล้ายกัน เล่ม 2(65) ข้อกำหนดเฉพาะสำหรับเครื่องฟอกอากาศ,Household and similar electrical appliances - safety - Part 2-65: Particular requirements for air-cleaning appliances,บังคับ,22,22,148,99,0,0,170
+44,1166-2559,ท่อคอนกรีตเสริมเหล็กหล่อสำเร็จรูปสี่เหลี่ยมสำหรับงานระบายน้ำใต้ผิวจราจร วัสดุถมระหว่าง 0.6 m ถึง 3.0 m,Precast reinforced concrete box sections for drainage with 0.6 m. - 3.0 m of cover,ทั่วไป,0,0,0,0,149,128,149
+45,2779-2562,หลอดแอลอีดีขั้วคู่ที่ออกแบบเพื่อเปลี่ยนทดแทนหลอดฟลูออเรสเซนซ์ชนิดตรง-คุณลักษณะที่ต้องการด้านความปลอดภัย,Double-capped LED lamps designed to retrofit linear fluorescent lamps - Safety specifications,บังคับ,14,14,135,98,0,0,149
+46,1529-2561,เครื่องปรับอากาศ คุณลักษณะที่ต้องการด้านความปลอดภัย,Air-Conditioner safety requirement,บังคับ,32,28,107,61,0,0,139
+47,909-2548,เครื่องตัดวงจรกระแสเหลือแบบมีอุปกรณ์ป้องกันกระแสเกิน สำหรับใช้ในที่อยู่อาศัยและใช้ในลักษณะที่คล้ายกัน,Residual current operated circuit-breakers with integral overcurrent protection for household and similar uses (RCBOs),บังคับ,33,11,105,50,0,0,138
+48,1164-2559,ท่อคอนกรีตเสริมเหล็กหล่อสำเร็จรูปสี่เหลี่ยมสำหรับงานระบายน้ำใต้ทางเท้า วัสดุถมไม่เกิน 3.0 m,Precast reinforced concrete box sections for drainage,ทั่วไป,0,0,0,0,137,119,137
+49,11 เล่ม 3-2553,สายไฟฟ้าหุ้มฉนวนพอลิไวนิลคลอไรด์ แรงดันไฟฟ้าที่กำหนดไม่เกิน 450/750 โวลต์ เล่ม 3 สายไฟฟ้าไม่มีเปลือกสำหรับงานติดตั้งยึดกับที่,Polyvinyl chloride insulated cables of rated voltages up to and including 450/750 v - Part 3: non-sheathed cables for fixed wiring,บังคับ,108,55,28,22,0,0,136
+50,332-2537,เครื่องดับเพลิงยกหิ้วชนิดผงเคมีแห้ง,Dry chemical portable fire extinguishers,บังคับ,120,27,16,9,0,0,136
+51,369-2557,หมวกนิรภัยสำหรับผู้ใช้รถจักรยานยนต์,Protective helmets for vehicle users,บังคับ,28,26,108,55,0,0,136
+52,2228-2565,เหล็กกล้าทรงแบนเคลือบอะลูมิเนียม 55% ผสมสังกะสีโดยกรรมวิธีจุ่มร้อน,Hot-dip 55% aluminium/zinc-coated cold-rolled flat steel,บังคับ,28,22,101,57,2,2,131
+53,655 เล่ม 3-2554,ภาชนะและเครื่องใช้พลาสติกสำหรับอาหาร เล่ม 3 อะคริโลไนไทรล์-บิวทะไดอีน-สไตรีน และสไตรีน-อะคริโลไนไทรล์,Plastic utensils for food part 3 acrylonitrile-butadiene-styrene and styrene-acrylonitrile,บังคับ,30,29,100,45,0,0,130
+54,1884-2564,เหล็กกล้าทรงแบนรีดร้อน ทนแรงดึงสูงที่ปรับปรุงสมบัติการขึ้นรูป สำหรับงานโครงสร้างรถยนต์,Hot - rolled high strength steel coil strip plate and sheet with improved formability for automobile structural uses,บังคับ,30,22,99,33,0,0,129
+55,2140-2560,เหล็กกล้าทรงแบนรีดเย็น สำหรับงานรถยนต์,Cold Reduced Flat Steel For Auto Mobile Uses,บังคับ,36,24,91,33,0,0,127
+56,11 เล่ม 5-2553,สายไฟฟ้าหุ้มฉนวนพอลิไวนิลคลอไรด์ แรงดันไฟฟ้าที่กำหนดไม่เกิน 450/750 โวลต์ เล่ม 5 สายอ่อน,Polyvinyl chloride insulated cables of rated voltages up to and including 450/750 v - Part 5: flexible cables (CORDS),บังคับ,95,54,30,20,0,0,125
+57,1222-2560,กระจกนิรภัยหลายชั้น,Laminated safety glass,บังคับ,35,32,87,32,0,0,122
+58,2214-2561,ตู้เย็นและตู้เย็นแบบมีช่องแช่เยือกแข็ง สำหรับใช้ในที่อยู่อาศัย ข้อกำหนดด้านความปลอดภัย,Household refrigerator and refrigerator-freezer safety requirement,บังคับ,14,10,106,38,0,0,120
+59,740-2563,สีสังเคราะห์ : สีรีแอกทีฟ,Synthetic dyestuff : reactive dye,บังคับ,8,8,109,29,0,0,117
+60,2223-2565,เหล็กกล้าทรงแบนเคลือบสังกะสี โดยกรรมวิธีทางไฟฟ้า,ELECTROLYTIC ZINC-COATED FLAT STEEL,บังคับ,47,36,70,43,0,0,117
+61,1155-2557,เครื่องปรับอากาศสำหรับห้อง แบบแยกส่วน,Air-cooled split type room air conditioners,ทั่วไป,0,0,0,0,116,18,116
+62,540-2564,ออกซิเจนทางการแพทย์,Medical oxygen,บังคับ,114,98,0,0,0,0,114
+63,880-2560,กระจกโฟลตใส,Clear float glass,บังคับ,8,4,101,39,0,0,109
+64,2493 เล่ม 1-2554,ภาชนะพลาสติกบรรจุอาหารสำหรับเตาไมโครเวฟ เล่ม 1 สำหรับการอุ่น,Plastic food containers for microwave oven part 1 for reheating,บังคับ,66,64,40,25,0,0,106
+65,2186-2561,ตู้เย็นและตู้เย็นแบบมีช่องแช่เยือกแข็งสำหรับใช้ในที่อยู่อาศัย ข้อกำหนดด้านสิ่งแวดล้อม : ประสิทธิภาพพลังงาน,Household refrigerator and refrigerator-freezer environmental requirements: Energy efficiency,บังคับ,14,10,89,33,0,0,103
+66,341-2543,ท่อไอเสียรถจักรยานยนต์,Motorcycle exhaust muffler,บังคับ,54,42,39,16,0,0,93
+67,3243-2564,เหล็กกล้าทรงแบนรีดร้อนเคลือบสังกะสีโดยกรรมวิธีจุ่มร้อน,Hot-dip Zinc-Coated hot rolled flat steel,บังคับ,30,21,63,40,0,0,93
+68,1746-2545,แอมโมเนียมไนเทรตสำหรับทำวัตถุระเบิดแอนโฟ,Ammonium nitrate for anfo explosive,บังคับ,2,2,89,17,0,0,91
+69,737-2549,ตะแกรงเหล็กกล้าเชื่อมติดเสริมคอนกรีต,Welded fabric steel for the reinforcement of concrete,ทั่วไป,0,0,0,0,91,53,91
+70,2622-2556,ภาชนะและเครื่องใช้โลหะเคลือบฟลูออโรพอลิเมอร์สำหรับอาหาร,Fluoro polymer coated utensils in contact with food,บังคับ,2,2,89,56,0,0,91
+71,1389-2559,เครื่องอบผ้า คุณลักษณะที่ต้องการด้านความปลอดภัย,Household and similar electrical Appliances-safety : Particular requirements for tumble dryers,บังคับ,6,4,83,30,0,0,89
+72,1462-2562,เครื่องซักผ้าใช้ในที่อยู่อาศัย-คุณลักษณะที่ต้องการด้านประสิทธิภาพพลังงาน,Clothes washing machines for household use-Energy efficiency requirements,บังคับ,10,10,79,31,0,0,89
+73,1344-2560,กระจกโฟลตสีตัดแสง,Tinted float glass,บังคับ,8,3,78,23,0,0,86
+74,1231-2560,กระจกฉนวน,Sealed insulating glass,บังคับ,14,12,71,28,0,0,85
+75,60335 เล่ม 2(32)-2564,ความปลอดภัยของเครื่องใช้ไฟฟ้าสำหรับใช้ในที่อยู่อาศัยและเครื่องใช้ไฟฟ้าอื่นที่คล้ายกัน เล่ม 2(32) ข้อกำหนดเฉพาะสำหรับเครื่องนวดร่างกาย,Household and similar electrical appliances - safety Part 2-32 : particular requirements for massage appliances,บังคับ,0,0,85,41,0,0,85
+76,216-2524,ท่อพีวีซีแข็งสำหรับใช้ร้อยสายไฟฟ้าและสายโทรศัพท์,Rigid PVC conduit for electrical wiring and telephone cable,ทั่วไป,0,0,0,0,81,38,81
+77,576-2546,แผ่นคอนกรีตเสริมเหล็กอัดแรงหล่อสำเร็จสำหรับระบบพื้นคอนกรีต,Precast prestressed concrete slabs for concrete floor systems,ทั่วไป,0,0,0,0,80,59,80
+78,1499-2563,เหล็กกล้าทรงแบนรีดร้อน สำหรับงานโครงสร้างเชื่อมประกอบ,Hot-rolled flat steel for welded structure,บังคับ,23,16,54,36,0,0,77
+79,655 เล่ม 2-2554,ภาชนะและเครื่องใช้พลาสติกสำหรับอาหาร เล่ม 2 พอลิไวนิลคลอไรด์ พอลิคาร์บอเนต พอลิแอไมด์ และพอลิเมทิลเมทาคริเลต,Plastic utensils for food part 2 poly (Vinyl Chloride) polycarbonate polyamide and poly (Methylmethacrylate),บังคับ,26,24,46,39,0,0,72
+80,2532-2563,สีสังเคราะห์ : สีแอซิด,Synthetic dyestuffs: Acid dye,บังคับ,10,10,61,27,0,0,71
+81,60335 เล่ม 2(79)-2563,ความปลอดภัยของเครื่องใช้ไฟฟ้าสำหรับใช้ในที่อยู่อาศัยและเครื่องใช้ไฟฟ้าอื่นที่คล้ายกัน เล่ม 2(79) ข้อกำหนดเฉพาะสำหรับเครื่องทำความสะอาดใช้ความดันสูง และเครื่องทำความสะอาดใช้ไอน้ำ,Household and similar electrical appliances - safety - Part 2-79: Particular requirements for high pressure cleaners and steam cleaners,บังคับ,1,1,69,43,0,0,70
+82,2915-2561,รถจักรยานยนต์เฉพาะด้านความปลอดภัย - สารมลพิษจากเครื่องยนต์ ระดับที่ 7,Safety requirements for motorcycle : emission from engine level 7,บังคับ,30,19,39,14,0,0,69
+83,2625-2557,สีเคลือบแอลคีด : เฉพาะด้านความปลอดภัย,Alkyd enamel: Safety requirement,บังคับ,64,60,1,1,0,0,65
+84,2316-2549,เสาเหล็กกล้าเคลือบสังกะสีสำหรับไฟฟ้าแสงสว่าง,Lighting galvanized steel columns,ทั่วไป,0,0,0,0,63,60,63
+85,58-2560,คอนกรีตบล็อกกลวงไม่รับน้ำหนัก,Hollow nonloadbearing concrete masonry units,ทั่วไป,0,0,0,0,63,60,63
+86,1501-2564,เหล็กกล้าทรงแบนรีดร้อน สำหรับงานโครงสร้างเครื่องจักรกล,Hot-rolled flat steel for machine structure use,บังคับ,21,17,42,23,0,0,63
+87,982-2556,ท่อพอลิเอทิลีนสำหรับน้ำดื่ม,Polyethylene pipes for drinking water,ทั่วไป,0,0,0,0,62,28,62
+88,542-2549,วัสดุเทอร์โมพลาสติกสะท้อนแสงสำหรับทำเครื่องหมายบนผิวทาง,Reflective thermoplastic road marking material,ทั่วไป,0,0,0,0,58,57,58
+89,3046-2563,รถยนต์ขนาดใหญ่ที่ใช้เครื่องยนต์แบบจุดระเบิดด้วยการอัด เฉพาะด้านความปลอดภัย : สารมลพิษจากเครื่องยนต์ ระดับที่ 6,"Heavy motor vehicle equipped with compression ignition engines : safety requirements; emission from engine, level 6",บังคับ,8,8,50,31,0,0,58
+90,3017-2563,รถยนต์ขนาดเล็กที่ใช้เครื่องยนต์แบบจุดระเบิดด้วยประกายไฟ เฉพาะด้านความปลอดภัย : สารมลพิษจากเครื่องยนต์ ระดับที่ 10,"Light duty positive ignition engine vehicles : safety requirements; emission from engine, level 10",บังคับ,10,9,46,20,1,1,57
+91,78-2549,ผงซักฟอก,Laundry detergent powder,บังคับ,34,30,22,16,0,0,56
+92,248-2567,ราวเหล็กลูกฟูกกันรถสำหรับทางสัญจร,CORRUGATED SHEET STEEL BEAMS FOR ROADWAY GUARDRAIL,ทั่วไป,0,0,0,0,56,56,56
+93,826-2531,กระเบื้องซีเมนต์ปูพื้น,Cement mortar flooring tiles,ทั่วไป,0,0,0,0,52,27,52
+94,11 เล่ม 101-2559,สายไฟฟ้าหุ้มฉนวนพอลิไวนิลคลอไรด์ แรงดันไฟฟ้าที่กำหนดไม่เกิน 450/750 โวลต์ เล่ม 101 สายไฟฟ้ามีเปลือกสำหรับงานทั่วไป,Polyvinyl chloride insulated cables of rated voltages up to and including 450/750 V - Part 101: Sheathed cables for general purposes,บังคับ,45,36,6,6,0,0,51
+95,1379-2551,ถังเก็บน้ำพลาสติก,Plastics water tanks,ทั่วไป,0,0,0,0,50,36,50
+96,2062-2558,กระติกน้ำร้อนไฟฟ้า คุณลักษณะที่ต้องการด้านความปลอดภัย,Electric thermo pots: Safety requirements,บังคับ,14,14,36,26,0,0,50
+97,24-2559,เหล็กเส้นเสริมคอนกรีต : เหล็กข้ออ้อย,Steel bars for reinforced concrete: deformed bars,บังคับ,46,37,3,1,0,0,49
+98,293-2541,สายไฟฟ้าอะลูมิเนียมหุ้มด้วยฉนวนโพลิไวนิลคลอไรด์,PVC-insulated aluminium cables,บังคับ,41,32,8,5,0,0,49
+99,1123-2555,สีรองพื้นสำหรับงานปูน,Masonry primer,ทั่วไป,0,0,0,0,48,45,48
+100,2425-2560,เครื่องตัดวงจรใช้กระแสเหลือแบบไม่มีอุปกรณ์ป้องกันกระแสเกิน สำหรับใช้ในที่อยู่อาศัยและใช้ในลักษณะที่คล้ายกัน เล่ม 1 หลักเกณฑ์ทั่วไป,Residual current operated circuit-breakers without integral overcurrent protection for household and similar uses (RCCBS) - Part 1 : general rules,บังคับ,2,2,46,37,0,0,48
+101,56-2560,น้ำตาลทราย,Sugar,ทั่วไป,0,0,0,0,48,42,48
+102,739-2563,สีสังเคราะห์ : สีไดเร็กต์,Synthetic dyestuff : Direct dye,บังคับ,11,11,36,14,0,0,47
+103,1228-2561,เหล็กโครงสร้างรูปพรรณขึ้นรูปเย็น สำหรับงานโครงสร้างทั่วไป,Cold-formed structural steel sections for general structure,บังคับ,45,40,0,0,0,0,45
+104,2543-2555,มาตรพลังงานไฟฟ้ากระแสสลับ : ข้อกำหนดเฉพาะ มาตรอิเล็กทรอนิกส์สำหรับพลังงานใช้งาน (ชั้น 1 และชั้น 2),Electricity metering equipment (AC) - particular requirements - static meters for active energy (class 1 and 2),ทั่วไป,0,0,0,0,44,31,44
+105,2921-2562,ภาชนะและเครื่องใช้เมลามีน-ฟอร์แมลดีไฮด์ ยูเรีย-ฟอร์แมลดีไฮด์ และเมลามีน-ยูเรีย-ฟอร์แมลดีไฮด์ สำหรับอาหาร: เฉพาะด้านความปลอดภัย,Melamine - Formaldehyde urea - Formaldehyde and melamine - UREA - Formaldehyde utensils for food : Safety requirement,บังคับ,12,12,32,29,0,0,44
+106,194-2535,ลวดเหล็กกล้าคาร์บอนต่ำ,Ordinary low carbon steel wires,ทั่วไป,0,0,0,0,43,28,43
+107,378-2531,กระเบื้องคอนกรีตปูพื้น,Concrete flooring tiles,ทั่วไป,0,0,0,0,43,36,43
+108,11 เล่ม 4-2553,สายไฟฟ้าหุ้มฉนวนพอลิไวนิลคลอไรด์ แรงดันไฟฟ้าที่กำหนดไม่เกิน 450/750 โวลต์ เล่ม 4 สายไฟฟ้ามีเปลือกสำหรับงานติดตั้งยึดกับที่,Polyvinyl chloride insulated cables of rated voltages up to and including 450/750 v - Part 4: sheathed cables for fixed wiring,บังคับ,40,31,2,2,0,0,42
+109,420-2540,ลวดเหล็กกล้าตีเกลียวสำหรับคอนกรีตอัดแรง,Steel wires strands for prestressed concrete,บังคับ,10,8,32,19,0,0,42
+110,17-2561,ท่อพีวีซีแข็งสำหรับใช้เป็นท่อน้ำดื่ม,Unplasticized polyvinyl chloride (PVC-U) pipe,บังคับ,41,38,1,1,0,0,42
+111,969-2562,หัวนมยางสำหรับขวดนม,Nipples for feeding bottles,บังคับ,19,17,22,20,0,0,41
+112,760-2563,สีสังเคราะห์ : สีแวต,Synthetic dyestuffs : Vat dye,บังคับ,2,2,38,18,0,0,40
+113,60335 เล่ม 2(23)-2564,ความปลอดภัยของเครื่องใช้ไฟฟ้าสำหรับใช้ในที่อยู่อาศัยและเครื่องใช้ไฟฟ้าอื่นที่คล้ายกัน เล่ม 2(23) ข้อกำหนดเฉพาะเครื่องใช้ไฟฟ้าสำหรับการดูแลผม ขน หรือผิว,Household and similar electrical appliances - safety - part 2-23 : Particular requirements for appliances for skin or hair care,บังคับ,1,1,39,22,0,0,40
+114,256-2540,ประตูน้ำเหล็กหล่อ : ลิ้นยกแบบรองลิ้นโลหะสำหรับงานประปา,Cast iron metal-seated gate valves for water services,ทั่วไป,0,0,0,0,39,19,39
+115,879-2553,ไฟแช็กก๊าซ,Gas Lighters,บังคับ,5,4,34,20,0,0,39
+116,2979-2562,ยางล้อแบบสูบลมหล่อดอกซ้ำ สำหรับยานยนต์เชิงพาณิชย์และส่วนพ่วง,Retreaded pneumatic tyres for commercial vehicles and their trailers,บังคับ,39,39,0,0,0,0,39
+117,1227-2558,เหล็กโครงสร้างรูปพรรณรีดร้อน,Hot rolled structural steel sections,บังคับ,19,11,19,9,0,0,38
+118,20-2559,เหล็กเส้นเสริมคอนกรีต : เหล็กเส้นกลม,Steel bars for reinforced concrete : round bars,บังคับ,38,34,0,0,0,0,38
+119,902 เล่ม 2(3)-2557,ดวงโคมไฟฟ้าสำหรับให้แสงสว่างบนถนน,Luminaires for road and street lighting,ทั่วไป,0,0,0,0,38,35,38
+120,1436 เล่ม 3-2564,ชุดประกอบสวิตช์เกียร์และเกียร์ควบคุมไฟฟ้าแรงดันต่ำ เล่ม 3 บอร์ดจ่ายไฟฟ้าประสงค์ให้ใช้งานโดยบุคคลทั่วไป,Low-voltage swithgear and controlgear assemblies - Part 3: Distribution boards intended to be operated by ordinary persons (DBO),บังคับ,20,19,0,0,18,17,38
+121,1056 เล่ม 1-2556,ถุงมือสำหรับการตรวจวินิจฉัยทางการแพทย์ชนิดใช้ครั้งเดียว เล่ม 1 : เกณฑ์กำหนดสำหรับถุงมือที่ทำจากน้ำยางหรือสารละลายยาง,Single-use medical examination gloves Part 1 : Specification for gloves made from rubber latex or rubber solution,บังคับ,31,23,5,5,0,0,36
+122,370-2552,ถังก๊าซปิโตรเลียมเหลวสำหรับเครื่องยนต์สันดาปภายใน,Liquefied petroleum gas cylinders for internal combustion engine,บังคับ,23,5,13,4,0,0,36
+123,95-2540,ลวดเหล็กกล้าสำหรับคอนกรีตอัดแรง,Steel wires for prestressed concrete,บังคับ,30,14,6,4,0,0,36
+124,1735-2563,เหล็กกล้าแผ่นม้วนรีดร้อน สำหรับงานท่อ,Hot-rolled steel strip for pipes and tubes,บังคับ,14,10,22,13,0,0,36
+125,2321-2564,สีอิมัลชันทนสภาวะอากาศ,Weather resistant emulsion paints,ทั่วไป,0,0,0,0,36,35,36
+126,747-2564,ลวดเหล็กกล้าดึงเย็นเสริมคอนกรีต,Cold-drawn steel wire for concrete reinforcement,ทั่วไป,0,0,0,0,36,36,36
+127,382-2531,ประตูน้ำเหล็กหล่อ : ลิ้นปีกผีเสื้อ,Cast iron: butterfly valves,ทั่วไป,0,0,0,0,34,15,34
+128,2424-2565,หน้ากากอนามัยใช้ครั้งเดียว,Single-use hyginic face masks,ทั่วไป,0,0,0,0,34,33,34
+129,1165-2559,ท่อคอนกรีตเสริมเหล็กหล่อสำเร็จรูปสี่เหลี่ยมสำหรับงานระบายน้ำใต้ผิวจราจร วัสดุถมน้อยกว่า 0.6 m,Precast reinforced concrete box sections for drainage,ทั่วไป,0,0,0,0,33,25,33
+130,683-2562,ยางในสำหรับรถจักรยานยนต์และโมเปด,Inner tubes for motorcycles and mopeds,บังคับ,20,14,12,11,0,0,32
+131,327-2553,สีเคลือบเงาแอลคีด,Alkyd gloss enamel,ทั่วไป,0,0,0,0,31,26,31
+132,437-2529,ตู้นิรภัยกันไฟแบบประตู,Fire resistance safes: door type,ทั่วไป,0,0,0,0,31,8,31
+133,107-2566,ท่อเหล็กกล้าคาร์บอนสำหรับงานโครงสร้างทั่วไป,CARBON STEEL TUBES FOR GENERAL STRUCTURE,ทั่วไป,0,0,0,0,31,25,31
+134,371-2530,แคตอิออนิกแอสฟัลต์อิมัลชันสำหรับถนน,Cationic asphalt emulsion for road,ทั่วไป,0,0,0,0,30,9,30
+135,15-2562,ปูนซีเมนต์ปอร์ตแลนด์,Portland cement,บังคับ,15,9,15,12,0,0,30
+136,272-2564,สีอิมัลชันใช้งานทั่วไป,Emulsion paints for general purposes,ทั่วไป,0,0,0,0,30,29,30
+137,383-2529,ประตูน้ำเหล็กหล่อ : ลิ้นกันกลับชนิดแกว่ง,Cast iron check valves: swing type,ทั่วไป,0,0,0,0,29,14,29
+138,2165-2561,เคเบิลเส้นใยนำแสง เล่ม 3(10) : เคเบิลภายนอกอาคาร - ข้อกำหนดคุณลักษณะเป็นรายกลุ่ม สำหรับเคเบิลเส้นใยนำแสงโทรคมนาคมชนิดติดตั้งในท่อร้อยสาย ฝังดินโดยตรง และแขวนในอากาศโดยใช้ลวดพัน,"Optical fibre cables Part 3-10: outdoor cables - family specification for duct, directly buried or lashed aerial optical telecommunication cables",บังคับ,5,5,23,18,0,0,28
+139,1436 เล่ม 2-2564,ชุดประกอบสวิตช์เกียร์และเกียร์ควบคุมไฟฟ้าแรงดันต่ำ เล่ม 2 ชุดสวิตช์เกียร์และชุดเกียร์ควบคุม,Low-voltage swithgear and controlgear assemblies - Part 2: Power switchgear and controlgear assemblies,ทั่วไป,0,0,0,0,28,28,28
+140,1288-2538,วงกบและกรอบบานโลหะสำหรับประตูและหน้าต่าง : ประตูเหล็กกล้าขึ้นรูปเย็น,Metal frames and panel-frames for doors and windows: cold formed steel doorsets,ทั่วไป,0,0,0,0,27,19,27
+141,2336-2552,มาตรพลังงานไฟฟ้ากระแสสลับ : ข้อกำหนดเฉพาะ มาตรกลไฟฟ้าสำหรับพลังงานไฟฟ้าใช้งาน (ชั้น 0.5 ชั้น 1 และ ชั้น 2),"Electricity metering equipment (ac) - particular requirements - electromechanical meters for active energy (class 0.5 , 1 and 2)",ทั่วไป,0,0,0,0,27,15,27
+142,404-2540,ลวดเหล็กกล้าเคลือบสังกะสีตีเกลียว,Galvanized steel wire strands,ทั่วไป,0,0,0,0,27,12,27
+143,435-2548,ถังเก็บน้ำพลาสติกเสริมใยแก้ว,Glassfibre reinforced plastics water tanks,ทั่วไป,0,0,0,0,27,19,27
+144,1368-2539,ประตูระบายอากาศสำหรับงานประปา,Air vent valves for water service,ทั่วไป,0,0,0,0,26,16,26
+145,1128-2562,แผ่นเหล็กมุงหลังคา,Roofing steel sheet,ทั่วไป,0,0,0,0,26,24,26
+146,3018-2563,รถยนต์ขนาดเล็กที่ใช้เครื่องยนต์แบบจุดระเบิดด้วยการอัด เฉพาะด้านความปลอดภัย : สารมลพิษจากเครื่องยนต์ ระดับที่ 8,"Light duty compression ignition engine vehicles : safety requirements; emission from engine, level 8",บังคับ,11,9,15,7,0,0,26
+147,1025-2562,หัวนมยางดูดเล่น,Pacifier,บังคับ,11,10,15,14,0,0,26
+148,787-2551,เครื่องยนต์ดีเซลขนาดเล็กระบายความร้อนด้วยน้ำ,Small size water cooled diesel engines,บังคับ,5,3,20,16,0,0,25
+149,1013-2533,บานประตูพีวีซี,PVC door,ทั่วไป,0,0,0,0,24,18,24
+150,165-2554,สารส้ม,"Aluminium sulphate, potash alum and ammonium alum",ทั่วไป,0,0,0,0,24,16,24
+151,543-2550,ลูกแก้วที่ใช้กับวัสดุทำเครื่องหมายบนผิวทาง,Glass beads for road marking materials,ทั่วไป,0,0,0,0,24,21,24
+152,284-2560,อะลูมิเนียมเจืออัดรีดขึ้นรูป,Aluminium alloy extruded shapes,ทั่วไป,0,0,0,0,24,22,24
+153,943-2564,ลวดเหล็กกล้าข้ออ้อยดึงเย็นเสริมคอนกรีต,Cold-drawn deformed steel wire for concrete reinforcement,ทั่วไป,0,0,0,0,24,24,24
+154,1149-2548,สีเทียน,Wax crayons,บังคับ,9,8,14,8,0,0,23
+155,514-2531,เชือกลวดเหล็กกล้า,Steel wire ropes,ทั่วไป,0,0,0,0,23,4,23
+156,851-2561,แอสฟัลต์ซีเมนต์สำหรับงานทาง,Asphalt cement for use in pavement construction,ทั่วไป,0,0,0,0,23,17,23
+157,956-2557,หลอดฟลูออเรสเซนซ์ขั้วคู่ -คุณลักษณะที่ต้องการด้านความปลอดภัย,Double - Capped fluorescent lamps - Safety specifications,บังคับ,4,4,19,13,0,0,23
+158,51-2562,สับปะรดในภาชนะบรรจุปิดสนิท,Pineapple in hermetically sealed containers,บังคับ,21,20,2,2,0,0,23
+159,496-2553,ทินเนอร์สำหรับแล็กเกอร์,Lacquer thinner,บังคับ,22,21,0,0,0,0,22
+160,1177-2556,น้ำยารองพื้นสำหรับพื้นผิวที่เป็นฝุ่น,Primer conditioner for chalking surfaces,ทั่วไป,0,0,0,0,21,19,21
+161,1651-2541,วงกบและกรอบบานโลหะสำหรับประตูและหน้าต่าง : วงกบเหล็กกล้า,Metal frames and panel frames for doors and windows: steel frames,ทั่วไป,0,0,0,0,21,21,21
+162,178-2549,แผ่นไม้อัด,Veneer plywood,ทั่วไป,0,0,0,0,21,12,21
+163,2544-2555,มาตรพลังงานไฟฟ้ากระแสสลับ : ข้อกำหนดเฉพาะ มาตรอิเล็กทรอนิกส์สำหรับพลังงานใช้งาน (ชั้น 0.2S และชั้น 0.5S),Electricity metering equipment (AC) - particular requirements - static meters for active energy (class 0.2S and 0.5S),ทั่วไป,0,0,0,0,21,14,21
+164,1505-2541,ชิ้นส่วนคอนกรีตมวลเบาแบบมีฟองอากาศ-อบไอน้ำ,Autoclaved aerated lightweight concrete elements,ทั่วไป,0,0,0,0,20,11,20
+165,1956-2553,บริภัณฑ์เทคโนโลยีสารสนเทศ : ขีดจำกัดสัญญาณรบกวนวิทยุ,Information technology equipment : radio disturbance limits,ทั่วไป,0,0,0,0,20,5,20
+166,415-2551,สีจราจร,Traffic paint,ทั่วไป,0,0,0,0,20,16,20
+167,2060-2560,เหล็กกล้าทรงแบนรีดร้อน สำหรับงานถังก๊าซ,Hot-Rolled Flat Steel For Gas Cylinders,บังคับ,10,7,10,3,0,0,20
+168,3000 เล่ม 4-2563,เครื่องเล่นสนามสาธารณะ เล่ม 4 อุปกรณ์โยก,Playground equipment for public use Part 4 Rocking,บังคับ,8,8,12,10,0,0,20
+169,1407-2540,กระเบื้องซีเมนต์เส้นใยแผ่นลอน,Fibre-cement profile sheets,ทั่วไป,0,0,0,0,19,5,19
+170,2703-2566,กาวซีเมนต์,CEMENT ADHESIVES,ทั่วไป,0,0,0,0,19,16,19
+171,2594-2567,ปูนซีเมนต์ไฮดรอลิก,HYDRAULIC CEMENT,บังคับ,17,10,2,2,0,0,19
+172,2253-2548,ข้อต่อเหล็กหล่อแกรไฟต์กลมสำหรับท่อส่งน้ำชนิดทนความดัน,Ductile iron pipe fittings for water pressure lines,ทั่วไป,0,0,0,0,18,12,18
+173,531-2558,ภาชนะพลาสติกสำหรับบรรจุผลิตภัณฑ์เภสัชปราศจากเชื้อ,Plastics containers for sterile pharmaceutical products,บังคับ,16,14,2,1,0,0,18
+174,759-2531,บานพับสำหรับประตูและหน้าต่าง : บานพับสองปีก,Hinges for doors and windows: butt hinges,ทั่วไป,0,0,0,0,18,11,18
+175,398-2563,เสาเข็มคอนกรีตอัดแรงแบบแรงเหวี่ยง,Prestressed concrete spun piles,ทั่วไป,0,0,0,0,18,10,18
+176,1220-2541,ชุดประตูทนไฟแบบบานเปิด,Fire-resistant doorsets: side hung,ทั่วไป,0,0,0,0,17,17,17
+177,2234-2557,หลอดมีบัลลาสต์ในตัวสำหรับการให้แสงสว่างทั่วไป - คุณลักษณะที่ต้องการด้านความปลอดภัย,Self-ballasted lamps for general lighting services: Safety requirements,บังคับ,1,1,16,10,0,0,17
+178,2611-2556,วัสดุโคลด์พลาสติกสำหรับทำเครื่องหมายบนผิวทาง,Cold plastics for road marking materials,ทั่วไป,0,0,0,0,17,12,17
+179,2735-2559,มอร์ตาร์สำหรับฉาบคอนกรีตมวลเบา,Plastering mortar for lightweight concrete,ทั่วไป,0,0,0,0,17,12,17
+180,756-2535,กุญแจลูกบิด,Cylindrical locks,ทั่วไป,0,0,0,0,17,10,17
+181,2387-2555,สีรองพื้นกันสนิม,Anticorrosive priming paint,ทั่วไป,0,0,0,0,17,16,17
+182,427-2562,ท่อเหล็กกล้าสำหรับส่งน้ำ,Steel water pipe,ทั่วไป,0,0,0,0,17,14,17
+183,1427-2561,แผ่นซีเมนต์เส้นใย : แผ่นเรียบ,Fibre-cement sheets : Flat sheets,ทั่วไป,0,0,0,0,17,7,17
+184,3000 เล่ม 2-2562,เครื่องเล่นสนามสาธารณะ เล่ม 2 กระดานลื่น ข้อกำหนดเฉพาะเพิ่มเติมด้านความปลอดภัย และวิธีทดสอบ,Playground equipment for public use Part 2 slides additional specific safety requirements and test methods,บังคับ,8,8,9,7,0,0,17
+185,384 เล่ม 1-2567,หม้อแปลงไฟฟ้ากำลัง เล่ม 1 ข้อกำหนดทั่วไป,POWER TRANSFORMERS - PART 1: GENERAL,ทั่วไป,0,0,0,0,17,16,17
+186,975-2538,กระบอกไฮดรอลิกสำหรับอุตสาหกรรมทั่วไป,Hydraulic cylinders for general industries,ทั่วไป,0,0,0,0,16,8,16
+187,3000 เล่ม 1-2562,เครื่องเล่นสนามสาธารณะ เล่ม 1 ชิงช้า ข้อกำหนดเฉพาะเพิ่มเติมด้านความปลอดภัยและวิธีทดสอบ,Playground equipment for public use Part 1 swing additional specific safety requirements and test methods,บังคับ,8,8,8,7,0,0,16
+188,541-2562,ออกซิเจนอุตสาหกรรม,Industrial oxygen,ทั่วไป,0,0,0,0,16,10,16
+189,3000 เล่ม 3-2563,เครื่องเล่นสนามสาธารณะ เล่ม 3 ม้าหมุน,Playground equipment for public use Part 3 Carousel,บังคับ,7,7,9,8,0,0,16
+190,2344-2563,สีสังเคราะห์ : สีซัลเฟอร์,Synthetic dyestuffs : Sulphur dye,บังคับ,1,1,15,11,0,0,16
+191,77-2565,อิฐก่อสร้างสามัญ,Building bricks,ทั่วไป,0,0,0,0,16,16,16
+192,1032-2534,น้ำยาประสานท่อพีวีซีแข็งและข้อต่อท่อพีวีซีแข็ง,Solvent-welding cements for use with unplasticized PVC pipes and fittings,ทั่วไป,0,0,0,0,15,15,15
+193,2440-2552,เครื่องใช้เหล็กกล้าไร้สนิม: ภาชนะหุงต้มที่มีรอยประสาน,Stainless steel : seamed stockpots,บังคับ,14,10,1,1,0,0,15
+194,2706-2559,มอร์ตาร์สำหรับก่อคอนกรีตบล็อกมวลเบา,Masonry martar for lightweight concrete block,ทั่วไป,0,0,0,0,15,10,15
+195,432-2529,ประตูน้ำเหล็กหล่อแบบลิ้นยกสำหรับใช้งานทั่วไป,Cast iron gate valves for general purposes,ทั่วไป,0,0,0,0,15,11,15
+196,535-2556,กระเบื้องคอนกรีตมุงหลังคา,Concrete roofing tiles,ทั่วไป,0,0,0,0,15,6,15
+197,865-2544,คัตแบกแอสฟัลต์,Cut-back asphalt,ทั่วไป,0,0,0,0,15,9,15
+198,902 เล่ม 2(1)-2563,ดวงโคมไฟฟ้าติดประจำที่สำหรับจุดประสงค์ทั่วไป,Fixed general purpose luminaires,ทั่วไป,0,0,0,0,15,15,15
+199,80-2566,ปูนซีเมนต์ผสม,Mixed cements,ทั่วไป,0,0,0,0,15,9,15
+200,118-2522,สายไฟฟ้าแรงต่ำสำหรับรถยนต์,Low voltage cables for automobiles,ทั่วไป,0,0,0,0,14,4,14
+201,12-2530,กระเบื้องซีเมนต์ใยหินแผ่นเรียบ,Asbestos cement flat sheets,ทั่วไป,0,0,0,0,14,7,14
+202,2137-2559,เครื่องแบบนักเรียน : ข้อกำหนดทั่วไป,School uniforms : General requirements,ทั่วไป,0,0,0,0,14,11,14
+203,2573-2555,เครื่องหมายปุ่มบนพื้นทาง : หมุดสะท้อนแสง,Raised pavement markers : reflecting road studs,ทั่วไป,0,0,0,0,14,13,14
+204,651-2535,ยางในรถยนต์,Tubes of automobile tyres,ทั่วไป,0,0,0,0,14,3,14
+205,79-2529,กระเบื้องซีเมนต์ใยหินแผ่นลอน : ลอนคู่,Asbestos - cement asymmetrical section corrugated sheets,ทั่วไป,0,0,0,0,14,5,14
+206,57-2560,คอนกรีตบล็อกกลวงรับน้ำหนัก,Hollow Loadbearing Concrete Masonry Units,ทั่วไป,0,0,0,0,14,13,14
+207,368-2562,หมวกนิรภัยสำหรับงานอุตสาหกรรม,Industrial protective helmet,ทั่วไป,0,0,0,0,14,14,14
+208,2683-2563,พื้นสังเคราะห์,Synthetic surfaces,ทั่วไป,0,0,0,0,14,12,14
+209,1776-2566,มอร์ตาร์สำหรับฉาบ,Mortar for plastering,ทั่วไป,0,0,0,0,14,9,14
+210,1020-2533,เครื่องเรือนสำหรับสำนักงาน : เก้าอี้ทำงานปรับได้,Office furniture: adjustable chairs,ทั่วไป,0,0,0,0,13,4,13
+211,2157-2547,มอดิฟายด์แอสฟัลต์อิมัลชันสำหรับงานทาง,Modified asphalt emulsion for use in pavement construction,ทั่วไป,0,0,0,0,13,8,13
+212,2434-2552,สายเคเบิลโทรคมนาคม ตัวนำทองแดง หุ้มฉนวนพอลิโอเลฟิน สำหรับการติดตั้งแบบแขวนในอากาศ,Polyolefin insulated copper conductor telecommunnication cables for aerial installation,บังคับ,8,7,5,2,0,0,13
+213,838-2531,สายไฟฟ้าสำหรับวงจรควบคุม,Control cable,ทั่วไป,0,0,0,0,13,9,13
+214,85-2548,ตัวนำลวดกลมตีเกลียวร่วมศูนย์กลางสำหรับสายไฟฟ้าเหนือดิน,Round wire concentric lay overhead electrical stranded conductors,บังคับ,11,7,2,2,0,0,13
+215,1136-2559,ฟิล์มยืดหุ้มห่ออาหาร,Stretch cling film for food,บังคับ,5,4,8,8,0,0,13
+216,225-2562,ไฮโปคลอไรต์,HYPOCHLORITES,ทั่วไป,0,0,0,0,13,11,13
+217,397-2562,เสาเข็มคอนกรีตเสริมเหล็กแบบแรงเหวี่ยง,Reinforced concrete spun piles,ทั่วไป,0,0,0,0,13,12,13
+218,3056-2563,มอร์ตาร์ฉาบผิวบาง,Skim coat mortar,ทั่วไป,0,0,0,0,13,13,13
+219,827-2565,คอนกรีตบล็อกประสานปูพื้น,Interlocking concrete paving blocks,ทั่วไป,0,0,0,0,13,12,13
+220,1048-2551,สีอีพ็อกซีสำหรับเคลือบท่อเหล็กกล้าส่งน้ำบริโภค,Epoxy coatings for steel potable water pipelines,ทั่วไป,0,0,0,0,12,12,12
+221,2601-2556,คอนกรีตบล็อกมวลเบาแบบเติมฟองอากาศ,Cellular lightweight concrete blocks using preformed foam,ทั่วไป,0,0,0,0,12,11,12
+222,2731-2559,แอสฟัลต์ซีเมนต์ปรับปรุงคุณภาพด้วยยางธรรมชาติ,Natural rubber modified asphalt cement,ทั่วไป,0,0,0,0,12,9,12
+223,520-2553,ทินเนอร์สำหรับสีพ่นแห้งเร็วไนโตรเซลลูโลส,Nitrocellulose lacquer thinner,บังคับ,12,12,0,0,0,0,12
+224,691-2547,สีอีพอกซีสำหรับงานทั่วไป,Epoxy paint for general purposes,ทั่วไป,0,0,0,0,12,11,12
+225,71-2532,ลวดเหล็กเคลือบสังกะสี,Galvanized wire,ทั่วไป,0,0,0,0,12,9,12
+226,92-2536,พัดลมไฟฟ้ากระแสสลับชนิดตั้งโต๊ะและติดผนัง,A.C. electric fans : table type and wall type,ทั่วไป,0,0,0,0,12,4,12
+227,276-2562,ท่อเหล็กกล้าคาร์บอนชนิดทนความดัน,Carbon steel pressure pipes,ทั่วไป,0,0,0,0,12,9,12
+228,175-2562,ไนโตรเจน,Nitrogen,ทั่วไป,0,0,0,0,12,7,12
+229,2817-2562,เหล็กโครงสร้างรูปพรรณขึ้นรูปเย็นเคลือบโลหะ สำหรับงานโครงสร้างทั่วไป,Cold-formed coated structural steel sections for general structure,ทั่วไป,0,0,0,0,12,12,12
+230,344-2562,ขั้วรับหลอดฟลูออเรสเซนซ์และขั้วรับสตาร์ตเตอร์,Lampholders for tubular fluorescent lamps and starterholders,บังคับ,6,6,6,6,0,0,12
+231,2514-2564,สีอิมัลชันลดความร้อนจากแสงอาทิตย์,Solar heat reductive emulsions paints,ทั่วไป,0,0,0,0,12,11,12
+232,2461-2565,ตู้น้ำร้อนน้ำเย็นบริโภคและตู้น้ำเย็นบริโภค เฉพาะด้านความปลอดภัย,HOT AND COOL WATER DISPENSER AND COOL WATER DISPENSER SAFETY REQUIREMENTS,บังคับ,4,4,7,6,1,1,12
+233,598-2566,มอร์ตาร์สำหรับก่อ,Mortar for masonry,ทั่วไป,0,0,0,0,12,7,12
+234,1101-2535,อุปกรณ์ช่วยปิดประตูสำหรับประตูบานผลักสองทาง,Door closers for double swing doors,ทั่วไป,0,0,0,0,11,5,11
+235,1483-2549,ท่อไฟเบอร์กลาสส์รับความดันสำหรับงานประปา,Fibreglass pressure pipes for water services,ทั่วไป,0,0,0,0,11,5,11
+236,1497-2548,ชุดหัวฉีดชะล้าง,Rinsing sprays,ทั่วไป,0,0,0,0,11,9,11
+237,2664-2557,สารเคลือบเงาพอลิยูรีเทนชนิดแยกส่วนผสมสองส่วนสำหรับยานยนต์,Two-pack polyurethane clear coat for vehicles,ทั่วไป,0,0,0,0,11,11,11
+238,27-2543,ถังก๊าซปิโตรเลียมเหลว,Liquefied petroleum gas containers,บังคับ,11,8,0,0,0,0,11
+239,41-2554,กรดซัลฟิวริกเข้มข้นและโอเลียมสำหรับอุตสาหกรรม,Concentrated sulphuric acid and oleums for industrial use,ทั่วไป,0,0,0,0,11,11,11
+240,910-2532,ท่อโพลิบิวทิลีนสำหรับใช้เป็นท่อน้ำดื่ม,Polybutylene (PB) pressure pipe and tubing for drinking water services,ทั่วไป,0,0,0,0,11,6,11
+241,950-2547,แอลกอฮอล์แข็งสำหรับใช้เป็นเชื้อเพลิง,Solid alcohol fuel,บังคับ,11,11,0,0,0,0,11
+242,2518-2557,ท่ออีพ็อกซีเรซินเสริมใยแก้ว สำหรับใช้ร้อยสายไฟฟ้าและสายโทรศัพท์,Glass-fibre reinforced epoxy resin conduit for electrical and communications cable,ทั่วไป,0,0,0,0,11,10,11
+243,64-2517,ตัวนำไฟฟ้าทองแดงรีดแข็งสำหรับสายส่งกำลังเหนือดิน,Hard drawn copper conductor for overhead lines,ทั่วไป,0,0,0,0,11,7,11
+244,2919-2561,คอนกรีตผสมเสร็จสำหรับสภาพแวดล้อมทางทะเล,Ready-mixed concrete for marine environment,ทั่วไป,0,0,0,0,11,10,11
+245,348-2559,เหล็กลวดคาร์บอนต่ำ,Low carbon steel wire rods,บังคับ,9,8,2,2,0,0,11
+246,902 เล่ม 2(5)-2563,ดวงโคมไฟฟ้าสาดแสง,Floodlights,ทั่วไป,0,0,0,0,11,11,11
+247,2623 เล่ม 7(1)-2564,ลูกถ้วยไฟฟ้า เล่ม 7(1) ลูกถ้วยหลักรับสายไฟฟ้า : พอร์ซเลน,Electrical power insulators Part 7(1) Line post type - Porcelain insulators,ทั่วไป,0,0,0,0,11,11,11
+248,1040-2541,น้ำมันเครื่องสำหรับเครื่องยนต์เบนซินสองจังหวะ,Two-stroke gasoline engine lubricating oil,บังคับ,10,9,0,0,0,0,10
+249,53-2548,ไม้ขีดไฟ,Matches,บังคับ,2,2,8,5,0,0,10
+250,834-2556,สีโป๊ยานยนต์ : พอลิเอสเทอร์,Vehicles putty : polyester,ทั่วไป,0,0,0,0,10,10,10
+251,882-2532,เครื่องดับเพลิงยกหิ้ว : โฟม,Portable fire extinguishers: Foam,บังคับ,5,4,5,4,0,0,10
+252,885-2551,บัลลาสต์อิเล็กทรอนิกส์ใช้กับไฟฟ้ากระแสสลับสำหรับหลอดฟลูออเรสเซนซ์ เฉพาะด้านความปลอดภัย,A.C. sopplied electronic ballasts for fluorescent lamps safety requirements,ทั่วไป,0,0,0,0,10,5,10
+253,971-2533,เสารั้วคอนกรีตเสริมเหล็กอัดแรงหล่อสำเร็จ,Prestressed concrete fence posts,ทั่วไป,0,0,0,0,10,6,10
+254,1054-2560,กระดาษถ่ายเอกสาร,Photocopy paper,ทั่วไป,0,0,0,0,10,7,10
+255,61215 เล่ม 1(1)-2561,แผงเซลล์แสงอาทิตย์ภาคพื้นดิน - คุณสมบัติการออกแบบและรับรองแบบ เล่ม 1(1) ข้อกำหนดเฉพาะสำหรับการทดสอบ แผงเซลล์แสงอาทิตย์ชนิดผลึกซิลิคอน,Terrestrial photovoltaic (PV) modules - design qualification and type approval - Part 1-1 : Special requirements for testing of crystalline silicon photovoltaic (PV) modules,ทั่วไป,0,0,0,0,10,8,10
+256,2623 เล่ม 3-2563,ลูกถ้วยไฟฟ้า เล่ม 3 ลูกถ้วยล้อ: พอร์ซเลน,Electrical power insulators Part 3 Spool Type-Porcelain Insulators,ทั่วไป,0,0,0,0,10,10,10
+257,523-2564,รองเท้าหนังนิรภัย,Leather safety footwear,ทั่วไป,0,0,0,0,10,10,10
+258,1278-2555,ก๊อกน้ำสำหรับอ่างล้างหน้า-ล้างมือ,Wash basins faucets,ทั่วไป,0,0,0,0,9,3,9
+259,1568-2541,บานประตูโพลิเอสเตอร์เสริมใยแก้ว,Fibreglass reinforced polyester doors,ทั่วไป,0,0,0,0,9,8,9
+260,2156-2547,มอดิฟายด์แอสฟัลต์ซีเมนต์สำหรับงานทาง,Modified asphalt cement for use in pavement construction,ทั่วไป,0,0,0,0,9,7,9
+261,2202-2547,สายไฟฟ้าแรงดันสูงหุ้มด้วยฉนวนครอสลิงกด์พอลิเอทิลีน สำหรับแรงดันไฟฟ้าที่กำหนดตั้งแต่ 60 กิโลโวลต์ ถึง 115 กิโลโวลต์,Power cables with xlpe insulated for rated voltage from 60 kv up to 115 kv,บังคับ,8,5,1,1,0,0,9
+262,2235-2557,หลอดฟลูออเรสเซนซ์ขั้วเดี่ยว - คุณลักษณะที่ต้องการด้านความปลอดภัย,Single-capped fluorescent lamps: Safety specifications,บังคับ,1,1,8,4,0,0,9
+263,2335-2558,ยานยนต์ประเภท M1 N1 ที่ใช้เครื่องยนต์สันดาปภายใน หรือที่ขับเคลื่อนด้วยไฟฟ้า หรือไฮบริดไฟฟ้า: สารมลพิษคาร์บอนไดออกไซด์ ความสิ้นเปลืองเชื้อเพลิง - พลังงานไฟฟ้า และระยะขับเคลื่อนด้วยไฟฟ้า,"Passenger cars powered by an internal combustion engine or hybrid cars, m1 and n1 vehicles powered by electric: emission of carbon dioxide, fuel consumption, electric energy consumption and electric range",ทั่วไป,0,0,0,0,9,2,9
+264,2663-2557,สีพ่นยานยนต์พอลิยูรีเทนชนิดแยกส่วนผสมสองส่วน : สีทับหน้า,Two-pack polyurethane paint clear coat for vehicles,ทั่วไป,0,0,0,0,9,9,9
+265,545-2528,กระดาษคาร์บอน,Carbon paper,ทั่วไป,0,0,0,0,9,4,9
+266,612-2549,แผ่นพอลิเอสเตอร์เสริมใยแก้ว,Glassfibre reinforced polyester sheets,ทั่วไป,0,0,0,0,9,4,9
+267,63-2560,ตู้เหล็กเก็บเอกสารแบบลิ้นชัก,Filing office steel cabinet,ทั่วไป,0,0,0,0,9,7,9
+268,1284-2560,ตู้เหล็กเก็บสัมภาระ,Steel lockers,ทั่วไป,0,0,0,0,9,9,9
+269,593-2562,ประตูเหล็กม้วนสำหรับงานอาคาร,Rolling door for building,ทั่วไป,0,0,0,0,9,9,9
+270,795-2564,เครื่องสุขภัณฑ์เซรามิก : โถปัสสาวะชาย,Ceramic sanitary wares : urinals,ทั่วไป,0,0,0,0,9,8,9
+271,399-2565,เสาเข็มคอนกรีตเสริมเหล็กขนาดสั้น,Reinforced concrete short piles,ทั่วไป,0,0,0,0,9,9,9
+272,791-2565,เครื่องสุขภัณฑ์เซรามิก : อ่างล้างหน้า-ล้างมือ,Vitreous china sanitary appliances: wash basins,ทั่วไป,0,0,0,0,9,8,9
+273,60335 เล่ม 2(13)-2564,ความปลอดภัยของเครื่องใช้ไฟฟ้าสำหรับใช้ในที่อยู่อาศัยและเครื่องใช้ไฟฟ้าอื่นที่คล้ายกัน เล่ม 2(13) ข้อกำหนดเฉพาะสำหรับเครื่องทอดน้ำมันท่วม กระทะทอด และเครื่องใช้ไฟฟ้าอื่นที่คล้ายกัน,"Household and similar electrical appliances - safety - part 2-13: Particular requirements for deep fat fryers, frying pans and similar appliances",บังคับ,5,5,4,4,0,0,9
+274,2595-2566,ปูนซีเมนต์สำหรับงานก่อและงานฉาบ,Masonry cement,ทั่วไป,0,0,0,0,9,7,9
+275,1139-2536,ท่อทองแดงไร้ตะเข็บ,Seamless copper pipes and tubes,ทั่วไป,0,0,0,0,8,1,8
+276,1484-2540,ท่อไฟเบอร์กลาสส์รับความดันสำหรับงานอุตสาหกรรมและงานระบายน้ำเสีย,Fibreglass pressure pipes for industrial and sewerage services,ทั่วไป,0,0,0,0,8,4,8
+277,218-2520,อะลูมิเนียมชุบผิว,Anodized aluminium,ทั่วไป,0,0,0,0,8,6,8
+278,224-2533,ท่อคอนกรีตไม่เสริมเหล็กสำหรับงานระบายน้ำ,Precast non-reinforced concrete drainage pipes,ทั่วไป,0,0,0,0,8,7,8
+279,249-2540,ข้อต่อท่อเหล็กหล่ออบเหนียวต่อด้วยเกลียว,Malleable cast iron threaded pipe fittings,ทั่วไป,0,0,0,0,8,3,8
+280,2529-2555,สีจราจรชนิดน้ำ,Water borne traffic paint,ทั่วไป,0,0,0,0,8,6,8
+281,258-2521,แหวนรองแบบเรียบ,Plain washers,ทั่วไป,0,0,0,0,8,7,8
+282,2610-2556,ยูนิตทำฟัน,Dental units,ทั่วไป,0,0,0,0,8,7,8
+283,2619-2556,กระเบื้องคอนกรีตเสริมประกอบสำหรับมุงหลังคา,Concrete Fitting for roofing,ทั่วไป,0,0,0,0,8,5,8
+284,2662-2557,สีพ่นยานยนต์พอลิยูรีเทนชนิดแยกส่วนผสมสองส่วน : สีพื้นรองทับหน้า,Two-pack polyurethane paint for vehicles :primer surfacer,ทั่วไป,0,0,0,0,8,8,8
+285,625-2559,ถุงยางอนามัยชายจากน้ำยางธรรมชาติ - คุณลักษณะที่ต้องการและวิธีทดสอบ,Natural rubber latex male condoms -- Requirements and test methods,ทั่วไป,0,0,0,0,8,6,8
+286,1390-2560,เข็มพืดเหล็กกล้ารีดร้อน,Hot rolled steel sheet piles,บังคับ,1,1,7,6,0,0,8
+287,150-2562,โซเดียมไฮดรอกไซด์สำหรับอุตสาหกรรม,Sodium hydroxide for industrial uses,ทั่วไป,0,0,0,0,8,6,8
+288,1024-2563,อาร์กอน,Argon,ทั่วไป,0,0,0,0,8,5,8
+289,3043-2563,รถยนต์ขนาดใหญ่ที่ใช้เครื่องยนต์แบบจุดระเบิดด้วยประกายไฟที่ใช้ก๊าซธรรมชาติหรือก๊าซปิโตรเลียมเหลวเป็นเชื้อเพลิง เฉพาะด้านความปลอดภัย : สารมลพิษจากเครื่องยนต์ ระดับที่ 3,"Heavy motor vehicle equipped with possitive ignition engines engines fuelled with natural gas or liquefied petroleum gas : safety requirements; emission from engine, level 3",บังคับ,0,0,8,7,0,0,8
+290,2623 เล่ม 7(2)-2564,ลูกถ้วยไฟฟ้า เล่ม 7(2) ลูกถ้วยหลักก้านตรงรับสายไฟฟ้า : พอร์ซเลน,Electrical power insulators Part 7(2) Pin post type - Porcelain insulators,ทั่วไป,0,0,0,0,8,8,8
+291,2150-2564,พอลิอะลูมิเนียมคลอไรด์ชนิดเหลว,Liquid polyaluminium chloride,ทั่วไป,0,0,0,0,8,8,8
+292,3656-2566,กล่องลวดตาข่าย,GABIONS AND MATTRESSES,ทั่วไป,0,0,0,0,8,8,8
+293,219-2566,แผ่นยิปซัม,GYPSUM PLASTERBOARDS,ทั่วไป,0,0,0,0,8,6,8
+294,18-2529,กระเบื้องซีเมนต์ใยหินแผ่นลอน : ลอนลูกฟูก,Asbestos-cement corrugated sheets,ทั่วไป,0,0,0,0,7,4,7
+295,217-2556,กรดไฮโดรคลอริกสำหรับอุตสาหกรรม,Hydrochloric acid for industrial use,ทั่วไป,0,0,0,0,7,6,7
+296,2337-2557,บัลลาสต์สำหรับหลอดฟลูออเรสเซนซ์ : คุณลักษณะที่ต้องการด้านประสิทธิภาพพลังงาน,Ballasts for tubular fluorescent lamps: Energy efficiency requirements,บังคับ,3,3,4,3,0,0,7
+297,2377-2559,แผ่นยางปูพื้น,Rubber flooring,ทั่วไป,0,0,0,0,7,7,7
+298,257-2549,น้ำบริโภค,Drinking water,ทั่วไป,0,0,0,0,7,5,7
+299,321-2560,กระดาษทำลูกฟูก,Corrugating medium,ทั่วไป,0,0,0,0,7,6,7
+300,468-2550,ไวต์สปิริตสำหรับสีและวาร์นิช,White spirit for paint and varnish,ทั่วไป,0,0,0,0,7,6,7
+301,479-2541,วัสดุยารอยต่อคอนกรีตแบบยืดหยุ่นชนิดเทร้อน,"Concrete joint sealer, hot-poured elastic type",ทั่วไป,0,0,0,0,7,6,7
+302,521-2527,กาวยาง,Rubber-based adhesive,ทั่วไป,0,0,0,0,7,7,7
+303,561-2549,สีแล็กเกอร์ไนโตรเซลลูโลส,Nitrocellulose lacquer enamel,ทั่วไป,0,0,0,0,7,7,7
+304,731-2532,ลวดเชื่อมมีสารพอกหุ้มใช้เชื่อมพอกผิวเหล็กกล้าด้วยอาร์ก,Covered electrodes for depositing on steel surface,ทั่วไป,0,0,0,0,7,2,7
+305,733-2530,สารเคมีผสมเพิ่มสำหรับคอนกรีต,Chemical admixtures for concrete,ทั่วไป,0,0,0,0,7,5,7
+306,803-2531,เชือกลวดเหล็กกล้าสำหรับลิฟต์,Steel wire ropes for lifts,ทั่วไป,0,0,0,0,7,3,7
+307,97-2557,ผ้าเบรกสำหรับยานยนต์,Brake linings for vehicles,ทั่วไป,0,0,0,0,7,4,7
+308,2623 เล่ม 2(1)-2560,ลูกถ้วยแขวนในระบบจำหน่ายไฟฟ้า : พอร์ซเลน,Distribution suspension type porcelain insulators,ทั่วไป,0,0,0,0,7,7,7
+309,49-2560,ลวดเชื่อมไฟฟ้ามีสารพอกหุ้มใช้เชื่อมเหล็กกล้าไม่เจือและเกรนละเอียดด้วยการเชื่อมอาร์กโลหะด้วยมือ,Covered electrodes for manual metal arc welging of non-alloy and fine grain steels,ทั่วไป,0,0,0,0,7,6,7
+310,113-2562,ตะปูเหล็ก,Steel nails,ทั่วไป,0,0,0,0,7,7,7
+311,2948-2562,กระดาษสัมผัสอาหาร,Paper for food contact,ทั่วไป,0,0,0,0,7,7,7
+312,2149-2546,ก๊อกน้ำติดผนังสำหรับห้องน้ำ,Wall-faucets for bathroom,ทั่วไป,0,0,0,0,7,5,7
+313,60335 เล่ม 2(37)-2564,ความปลอดภัยของเครื่องใช้ไฟฟ้าสำหรับใช้ในที่อยู่อาศัยและเครื่องใช้ไฟฟ้าอื่นที่คล้ายกัน เล่ม 2(37) ข้อกำหนดเฉพาะสำหรับเครื่องทอดโดนัทเชิงพาณิชย์และเครื่องทอดน้ำมันท่วมเชิงพาณิชย์,Household and similar electrical appliances - Safety - Part 2-37: Particular requirements for commercial electric doughnut fryers and deep fat fryers,บังคับ,0,0,7,5,0,0,7
+314,2623 เล่ม 9-2564,ลูกถ้วยไฟฟ้า เล่ม 9 ลูกถ้วยหลักรับอุปกรณ์: พอร์ซเลน,"Electrical power insulators Part 9 Apparatus, post type - porcelain insulators",ทั่วไป,0,0,0,0,7,7,7
+315,2341-2564,สายไฟฟ้าอากาศตัวนำอะลูมิเนียมหุ้มฉนวนและเปลือกครอสลิงกด์พอลิเอทิลีน สำหรับแรงดันไฟฟ้าที่กำหนด 25 kV และ 35 kV,Aluminium space aerial power cables with XLPE insulated and sheathed for rated voltages of 25 kv and 35 kv,ทั่วไป,0,0,0,0,7,7,7
+316,816-2565,พอลิเอทิลีนเรซิน,Polyethylene resin,ทั่วไป,0,0,0,0,7,3,7
+317,153-2565,อิฐกลวงก่อแผงไม่รับน้ำหนัก,Structural clay nonloadbearing screen tiles,ทั่วไป,0,0,0,0,7,7,7
+318,797-2565,เครื่องสุขภัณฑ์เซรามิก : อุปกรณ์ห้องน้ำ,Ceramic sanitary wares: bathroom accessories,ทั่วไป,0,0,0,0,7,7,7
+319,3778 เล่ม 1-2567,บันไดเลื่อน และทางเลื่อนอัตโนมัติ ข้อกำหนดด้านความปลอดภัย เล่ม 1 ข้อกำหนดสากลด้านความปลอดภัยที่จำเป็น (GESR),SAFETY REQUIREMENTS FOR ESCALATORS AND MOVING WALKS PART 1: GLOBAL ESSENTIAL SAFETY REQUIREMENTS (GESR),บังคับ,1,1,6,6,0,0,7
+320,1122-2546,เก้าอี้ผู้ปฏิบัติการทันตกรรม,Dental operator's stool,ทั่วไป,0,0,0,0,6,5,6
+321,1277-2555,ก๊อกน้ำสำหรับอ่างล้างชาม,Sink faucets,ทั่วไป,0,0,0,0,6,2,6
+322,1878-2550,เครื่องจ่ายเชิงพาณิชย์และเครื่องขายสินค้าอัตโนมัติ เฉพาะด้านความปลอดภัย,Household and similar electrical appliance - sefety,ทั่วไป,0,0,0,0,6,2,6
+323,408-2553,ทองแดงและทองแดงเจือสำหรับจุดประสงค์ทั่วไปทางไฟฟ้า : เส้น และแท่ง,Copper and copper alloys for general electrical purposes : rod and bar,บังคับ,3,3,3,1,0,0,6
+324,778-2531,โครงบานเกล็ดหน้าต่างปรับได้,Frame sets for adjustable louvre window,ทั่วไป,0,0,0,0,6,6,6
+325,998-2553,ภาชนะพลาสติกสำหรับบรรจุน้ำบริโภค,Plastic containers for drinking water,ทั่วไป,0,0,0,0,6,5,6
+326,999-2533,ท่อพีวีซีแข็งสำหรับใช้ในงานอุตสาหกรรม,Unplasticized polyvinyl chloride pipes for industrial use,ทั่วไป,0,0,0,0,6,3,6
+327,902 เล่ม 2(22)-2560,ดวงโคมไฟฟ้าฉุกเฉิน,Emergency luminaires,ทั่วไป,0,0,0,0,6,4,6
+328,4 เล่ม 1-2558,หลอดไฟฟ้าไส้ทังสเตนสำหรับใช้ในที่อยู่อาศัยและที่มีจุดประสงค์ให้แสงสว่างทั่วไปที่คล้ายกัน เล่ม 1 คุณลักษณะที่ต้องการด้านความปลอดภัย,Tungsten filament lamps for domestics and similar lighting purpose Part 1 Safety specification,บังคับ,2,2,4,4,0,0,6
+329,138-2562,ลวดผูกเหล็ก,Steel binding wires,ทั่วไป,0,0,0,0,6,6,6
+330,207-2562,คลอรีนเหลว,Liquid chlorine,ทั่วไป,0,0,0,0,6,5,6
+331,989-2562,ถังเหล็กกล้าไร้สนิมสำหรับเก็บน้ำ,Stainless steel water tanks,ทั่วไป,0,0,0,0,6,6,6
+332,2682-2563,เม็ดยางใช้ทำพื้นสังเคราะห์,Rubber granules for synthetic surfaces,ทั่วไป,0,0,0,0,6,5,6
+333,133-2562,ปูนซีเมนต์ปอร์ตแลนด์ขาว,White portland cement,บังคับ,1,1,5,5,0,0,6
+334,3250-2564,ตัวแยกสายชนิดพอลิเมอร์พร้อมอุปกรณ์จับยึดสายไฟฟ้า,Polymer cable spacers with clamps,ทั่วไป,0,0,0,0,6,6,6
+335,3246-2564,ไนโตรเจนทางการแพทย์,Medical nitrogen,ทั่วไป,0,0,0,0,6,2,6
+336,1180(1)-2538,รถยนต์ขนาดใหญ่ที่ใช้เครื่องยนต์ดีเซล เฉพาะด้านความปลอดภัย : สารมลพิษจากเครื่องยนต์ ระดับที่ 1,"Heavy duty diesel engined vehicles: Safety requirements; emission from engine, level 1",ทั่วไป,0,0,0,0,5,1,5
+337,1193-2536,บ่อพักคอนกรีตเสริมเหล็กหล่อสำเร็จสำหรับงานระบายน้ำ,Precast reinforced concrete drainage manholes,ทั่วไป,0,0,0,0,5,5,5
+338,1253-2537,เครื่องเรือนอเนกประสงค์ : เก้าอี้โลหะ,Multi-purpose furniture: metal chairs,ทั่วไป,0,0,0,0,5,3,5
+339,1377-2555,ก๊อกน้ำปิดอัตโนมัติสำหรับอ่างล้างหน้า-ล้างมือ,Self-closing faucets for wash basins,ทั่วไป,0,0,0,0,5,2,5
+340,1521-2541,กาวสำหรับกระดาษ,Paper adhesives,ทั่วไป,0,0,0,0,5,3,5
+341,158-2518,กระเบื้องดินเผามุงหลังคา,Clay plain roofing tiles,ทั่วไป,0,0,0,0,5,3,5
+342,176-2561,น้ำมันถั่วเหลืองสำหรับบริโภค,Edible soybean oil,ทั่วไป,0,0,0,0,5,3,5
+343,2224-2548,ผลิตภัณฑ์ขจัดคราบน้ำมัน,Oil spill cleanup products,ทั่วไป,0,0,0,0,5,5,5
+344,2261-2549,เสื้อชั้นในชาย,Knitted underclothes for men,ทั่วไป,0,0,0,0,5,5,5
+345,23-2558,บัลลาสต์สำหรับหลอดฟลูออเรสเซนซ์ - คุณลักษณะที่ต้องการด้านความปลอดภัย,Ballast for fluorescent lamps : safety requirements,บังคับ,3,3,2,2,0,0,5
+346,2311-2549,ถังบรรจุก๊าซ-ถังทนความดันสูงสำหรับบรรจุก๊าซธรรมชาติที่ใช้เป็นเชื้อเพลิงสำหรับพาหนะรถยนต์,Gas cylinders - high pressure cylinders for the on-board storage of natural gas as a fuel for automotive vehicles,ทั่วไป,0,0,0,0,5,2,5
+347,236-2548,หลอดฟลูออเรสเซนซ์ขั้วคู่,Double - capped fluorescent lamps,ทั่วไป,0,0,0,0,5,2,5
+348,2689-2558,ท่อเหล็กกล้าไร้สนิมออสเทไนต์สำหรับโครงสร้างงานตกแต่ง,Austenitic Stainless steel tubes for decoration structure,ทั่วไป,0,0,0,0,5,5,5
+349,562-2549,แล็กเกอร์ใสไนโตรเซลลูโลส,Clear lacquer nitrocellulose,ทั่วไป,0,0,0,0,5,5,5
+350,572-2528,พัดลมไฟฟ้ากระแสสลับชนิดส่ายรอบตัว,A.C. electric double-oscillating type fans,ทั่วไป,0,0,0,0,5,4,5
+351,596-2531,กลอน : ทองเหลืองและอะลูมิเนียมชนิดอัดรีด,Door bolts: extruded brass and extruded aluminium,ทั่วไป,0,0,0,0,5,3,5
+352,716-2532,ลวดเย็บกระดาษ,Standard for Staples,ทั่วไป,0,0,0,0,5,2,5
+353,727-2551,สีโคลทาร์อีพ็อกซี,Coal tar epoxy paints,ทั่วไป,0,0,0,0,5,5,5
+354,732-2531,ลวดเชื่อมมีสารพอกหุ้มใช้เชื่อมเหล็กหล่อด้วยอาร์ก,Covered electrodes for arc welding of cast iron,ทั่วไป,0,0,0,0,5,3,5
+355,951-2533,แผ่นยางรองสะพาน,Rubber bridge bearings,ทั่วไป,0,0,0,0,5,3,5
+356,1394-2561,สายดูดเสมหะสำหรับใช้ครั้งเดียว,Suction catheters for use in the respirator tract for single use,ทั่วไป,0,0,0,0,5,5,5
+357,915 เล่ม 2-2562,วาล์วถังก๊าซปิโตรเลียมเหลว เล่ม 2 แบบมือหมุน,Specifications and testing of LPG cylinder valves Part 2 : manually operated,ทั่วไป,0,0,0,0,5,3,5
+358,182-2562,สำลีที่ใช้ในการแพทย์,Absorbent cotton for medical purposes,ทั่วไป,0,0,0,0,5,5,5
+359,3-2562,น้ำปลา,Fish sauce,ทั่วไป,0,0,0,0,5,4,5
+360,2623 เล่ม 4-2563,ลูกถ้วยไฟฟ้า เล่ม 4 : ลูกถ้วยยึดโยง: พอร์ซเลน,Electrical power insulators Part 4: Strain type-Porcelain insulators,ทั่วไป,0,0,0,0,5,5,5
+361,744-2563,วงกบและกรอบบานโลหะสำหรับประตูและหน้าต่าง: หน้าต่างอะลูมิเนียม,Metal frames and panel frames for doors and windows : aluminium windows,ทั่วไป,0,0,0,0,5,5,5
+362,1513-2563,สีย้อมเคลือบไม้ชนิดตัวทำละลาย,Solvent-based wood stain coating,ทั่วไป,0,0,0,0,5,5,5
+363,3202-2564,คอนกรีตแห้งสำเร็จรูป,Dry premixed concrete,ทั่วไป,0,0,0,0,5,4,5
+364,2895-2564,คอนกรีตบล็อกเชิงตันไม่รับน้ำหนัก,Solid nonloadbearing concrete masonry units,ทั่วไป,0,0,0,0,5,5,5
+365,1306-2566,พอลิโพรพิลีนเรซิน,POLYPROPYLENE RESIN,ทั่วไป,0,0,0,0,5,3,5
+366,353-2566,ตู้เหล็กใช้ในสำนักงานแบบประตู,DOOR-TYPE OFFICE STEEL CABINET,ทั่วไป,0,0,0,0,5,5,5
+367,1097-2556,สีอะคริลิกเคลือบกระเบื้องซีเมนต์เส้นใยมุงหลังคา,Acrylic coating used in fibre cement roof tile,ทั่วไป,0,0,0,0,4,4,4
+368,1163-2536,แผ่นเทอร์โมเซตติงแลมิเนต,Thermosetting laminated sheets,ทั่วไป,0,0,0,0,4,2,4
+369,1183-2536,เครื่องเรือนสำหรับสำนักงาน : โต๊ะทำงานเหล็กกล้า,Office furniture: steel desks,ทั่วไป,0,0,0,0,4,2,4
+370,127-2536,พัดลมไฟฟ้ากระแสสลับชนิดตั้งพื้น,A.C. electric fans: pedestal types,ทั่วไป,0,0,0,0,4,3,4
+371,1413-2540,ประตูน้ำเหล็กหล่อ : ลิ้นยกแบบลิ้นหุ้มยางสำหรับงานประปา,Cast iron rubber-seated gate valves for water services,ทั่วไป,0,0,0,0,4,3,4
+372,1420-2551,ไส้กรองความขุ่นสำหรับเครื่องกรองน้ำดื่ม,Turbidity filter cartridges for drinking water filters,ทั่วไป,0,0,0,0,4,4,4
+373,1485-2540,ท่อไฟเบอร์กลาสส์ไม่รับความดันสำหรับงานอุตสาหกรรมและงานระบายน้ำเสีย,Fibreglass non-pressure pipes for industrial and sewerage services,ทั่วไป,0,0,0,0,4,3,4
+374,205-2530,พัดลมไฟฟ้ากระแสสลับชนิดแขวนเพดาน,A.C. electric ceiling type fans,ทั่วไป,0,0,0,0,4,2,4
+375,2109 เล่ม 2-2559,ฟิวส์แรงดันไฟฟ้าต่ำ เล่ม 2 คุณลักษณะที่ต้องการเพิ่มเติมสำหรับฟิวส์ที่ใช้โดยบุคคลที่ได้รับอนุญาต (ฟิวส์สำหรับใช้ในงานอุตสาหกรรมเป็นหลัก) - ตัวอย่างของระบบฟิวส์มาตรฐาน A ถึง K,Low-voltage fuses-part 2 : Supplementary requirements for fuses for use by authorized persons (fuses mainly for industrial application) - examples of standized systems of fuses Ato K,ทั่วไป,0,0,0,0,4,4,4
+376,2312-2549,เตาหุงต้มในครัวเรือนใช้กับก๊าซปิโตรเลียมเหลว,Domestic gas stoves for use with liquefied petroleum gas,ทั่วไป,0,0,0,0,4,3,4
+377,251-2554,ผ้าโปร่งดูดซึม ผ้าพันแผล และผ้าซับ,"Absorbent gauze, gauze bandages and gauze pads",ทั่วไป,0,0,0,0,4,4,4
+378,2559-2554,พอลิเอทิลีนคอมพาวนด์สำหรับผลิตท่อน้ำดื่ม,Polyethelene compound for drinking water pipe production,ทั่วไป,0,0,0,0,4,3,4
+379,2599-2556,ถุงเท้าใช้งานหนัก,Heavy purpose socks,ทั่วไป,0,0,0,0,4,4,4
+380,2701-2559,ซีเมนต์ไฮดรอลิกเกร้าต์,Hydraulic - cement grout,ทั่วไป,0,0,0,0,4,4,4
+381,2737-2559,กระจกอบแข็งด้วยความร้อน,Heat - Strengthened glass,ทั่วไป,0,0,0,0,4,4,4
+382,334-2528,โซ่รถจักรยานยนต์,Motorcycle chains,ทั่วไป,0,0,0,0,4,3,4
+383,356-2531,น้ำมันเครื่อง,Internal combustion engine lubricating oil,ทั่วไป,0,0,0,0,4,1,4
+384,357-2551,สีรองพื้นสำหรับงานไม้,Priming paint for wood,ทั่วไป,0,0,0,0,4,3,4
+385,379-2556,กระเบื้องหินขัดชนิดสองชั้น,Dual -layer terrazzo tiles,ทั่วไป,0,0,0,0,4,4,4
+386,518-2527,ตู้เหล็กเก็บเอกสารกันไฟแบบลิ้นชัก,Fire resistant filing cabinet,ทั่วไป,0,0,0,0,4,3,4
+387,659-2529,เหล็กฉากเจาะรู,Slotted steel angles,ทั่วไป,0,0,0,0,4,4,4
+388,769-2533,ผ้ามุ้ง,Mosquito nets,ทั่วไป,0,0,0,0,4,4,4
+389,872-2532,หม้อกรองน้ำมันเครื่องชนิดถอดเปลี่ยนทั้งชุดสำหรับรถยนต์,Throwaway type oil filters for automobile,ทั่วไป,0,0,0,0,4,3,4
+390,921-2551,โต๊ะเทเบิลเทนนิส,Table-tennis tables,ทั่วไป,0,0,0,0,4,4,4
+391,2386-2555,สีรองพื้นกันสนิมซิงก์ฟอสเฟต,Anticorrosive zinc phosphate priming paint,ทั่วไป,0,0,0,0,4,4,4
+392,2916-2561,ยางมะตอยผสมสำเร็จ,Ready premixed asphalt,ทั่วไป,0,0,0,0,4,4,4
+393,1326-2560,เครื่องเรือนสำหรับที่พักอาศัย : ตู้เหล็กเก็บเสื้อผ้า,Domestic furniture : steel wardrobe,ทั่วไป,0,0,0,0,4,4,4
+394,1496-2560,เครื่องเรือนสำหรับสำนักงาน : ชุดตู้เหล็กเลื่อน,Office furniture : Sliding steel cabinet set,ทั่วไป,0,0,0,0,4,4,4
+395,538-2560,ถุงมือยางปราศจากเชื้อสำหรับการศัลยกรรมชนิดใช้ครั้งเดียว,Single-Use Sterile Rubber Surgical Gloves,ทั่วไป,0,0,0,0,4,4,4
+396,60-2560,คอนกรีตบล็อกเชิงตันรับน้ำหนัก,Solid loadbearing concrete masonry units,ทั่วไป,0,0,0,0,4,4,4
+397,940-2562,ลูกฟุตบอล,Balls for soccer,ทั่วไป,0,0,0,0,4,4,4
+398,2329-2562,ลูกฟุตซอล,Balls for futsal,ทั่วไป,0,0,0,0,4,4,4
+399,941-2563,ลูกบาสเกตบอล,Balls for basketball,ทั่วไป,0,0,0,0,4,4,4
+400,942-2563,ลูกวอลเลย์บอล,Balls for volleyball,ทั่วไป,0,0,0,0,4,4,4
+401,3078-2563,มาตรวัดน้ำ,Water meter,ทั่วไป,0,0,0,0,4,4,4
+402,30-2564,ไนทรัสออกไซด์ทางการแพทย์,Medical nitrous oxide,บังคับ,4,4,0,0,0,0,4
+403,640 เล่ม 1-2564,เอทานอลใช้ทางเภสัชกรรม,Ethanol for pharmaceutical use,ทั่วไป,0,0,0,0,4,4,4
+404,1141-2565,ถ้วยกระดาษสำหรับเครื่องดื่ม,Paper cups for beverage,ทั่วไป,0,0,0,0,4,4,4
+405,3412-2565,ถังก๊าซปิโตรเลียมเหลวสำหรับรถโฟล์คลิฟท์: ถังโลหะ,Liquefied petroleum gas container for forklift: Metallic cylinder,ทั่วไป,0,0,0,0,4,3,4
+406,539-2564,คาร์บอนไดออกไซด์ทางการแพทย์,Medical carbondioxide,บังคับ,4,3,0,0,0,0,4
+407,2753-2567,เหล็กกล้าทรงแบนเคลือบอะลูมิเนียม 55% ผสมสังกะสี โดยกรรมวิธีจุ่มร้อนและเคลือบสี,PREPAINTED HOT-DIP 55% ALUMINIUM/ZINC-COATED FLAT STEEL ,ทั่วไป,0,0,0,0,4,4,4
+408,1023-2534,ผลิตภัณฑ์ลบคำผิดสำหรับกระดาษพิมพ์และเขียน,Printing and writing paper correction fluid,ทั่วไป,0,0,0,0,3,3,3
+409,1053-2534,ชุดระบายน้ำพื้น,Floor drains,ทั่วไป,0,0,0,0,3,2,3
+410,1115-2535,แฟ้มกระดาษ,Paper folders and files,ทั่วไป,0,0,0,0,3,3,3
+411,1146-2536,ชุดล้อสำหรับประตูและหน้าต่างบานเลื่อนอะลูมิเนียม,Rollers for aluminium sliding doors and windows,ทั่วไป,0,0,0,0,3,3,3
+412,1147-2549,ดินสอสี,Coloured pencils,ทั่วไป,0,0,0,0,3,3,3
+413,1230-2537,จานเรซินอยด์สำหรับตัด,Resinoid cut-off wheels,ทั่วไป,0,0,0,0,3,3,3
+414,1237-2537,ฝาและขอบบ่อพักคอนกรีตเสริมเหล็กหล่อสำเร็จ,Precast reinforced concrete covers and frames for manholes,ทั่วไป,0,0,0,0,3,3,3
+415,1245-2553,สารอัดแบบเมลามีนฟอร์แมลดีไฮด์,Melamine-formaldehyde moulding compounds,ทั่วไป,0,0,0,0,3,3,3
+416,126-2548,ข้อต่อซีเมนต์ใยหินชนิดทนความดัน,Asbestos cement pressure couplings,ทั่วไป,0,0,0,0,3,2,3
+417,1303-2538,เหล็กโครงสร้างรูปพรรณเชื่อมประกอบ,Welded structural steel sections,ทั่วไป,0,0,0,0,3,3,3
+418,1419-2540,เครื่องกรองน้ำชนิดใช้ถ่านกัมมันต์เม็ดและเรซินแลกเปลี่ยนแคตไอออน,Water filter : Granular activated carbon and cation exchange resin type,ทั่วไป,0,0,0,0,3,3,3
+419,1510-2541,แผ่นคอนกรีตมวลเบาเสริมเหล็กแบบมีฟองอากาศ-อบไอน้ำ,Autoclaved aerated reinforced lightweight concrete panels,ทั่วไป,0,0,0,0,3,2,3
+420,1569-2541,วงกบโพลิเอสเตอร์เสริมใยแก้วสำหรับประตู,Fibreglass reinforced polyester frames for doors,ทั่วไป,0,0,0,0,3,3,3
+421,1677-2541,แท่นประทับตรา,Stamp pads,ทั่วไป,0,0,0,0,3,2,3
+422,1745-2547,ผลิตภัณฑ์ซักผ้าชนิดเหลว,Liquid laundry detergent product,ทั่วไป,0,0,0,0,3,3,3
+423,188-2547,ปูนยิปซัมสำหรับการก่อสร้าง,Gypsum plaster for building purpose,ทั่วไป,0,0,0,0,3,2,3
+424,2151-2555,พอลิยูรีเทนเคลือบผิวชนิดแยกส่วนผสมสองส่วนใช้งานทั่วไป,Two-package polyurethane coating for general purpose,ทั่วไป,0,0,0,0,3,3,3
+425,2226-2548,แผ่นผนังคอนกรีตสำเร็จรูป,Precast concrete wall panels,ทั่วไป,0,0,0,0,3,3,3
+426,2241-2548,สีเคลือบเงาอะคริลิกเรซิน,Acrylic resin enamel,ทั่วไป,0,0,0,0,3,3,3
+427,2356-2550,แผ่นพีวีซีโฟมแข็ง,Rigid polyvinyl chloride foam sheets,ทั่วไป,0,0,0,0,3,3,3
+428,2391-2551,สารละลายเฟร์ริกคลอไรด์,Ferric chloride solution,ทั่วไป,0,0,0,0,3,3,3
+429,2438-2552,ที่นอนโฟมพอลิสไตรีน,Polystyrene foam mattresses,ทั่วไป,0,0,0,0,3,2,3
+430,2481-2552,เครื่องขูดหินน้ำลายไฟฟ้า,Electrical-powered scalers,ทั่วไป,0,0,0,0,3,3,3
+431,2507-2553,ยางกันเรือกระแทกรูปตัวดีและรูปจัตุรัส,Marine rubber fenders : d-shape and square shape,ทั่วไป,0,0,0,0,3,3,3
+432,2668-2558,ยางล้อตันสำหรับรถฟอร์กลิฟต์,Forklift solid tyres,ทั่วไป,0,0,0,0,3,3,3
+433,438-2556,ถุงเท้าใช้งานทั่วไป,General purpose sock,ทั่วไป,0,0,0,0,3,3,3
+434,439-2556,ถุงเท้านักเรียน,School socks,ทั่วไป,0,0,0,0,3,3,3
+435,444-2549,วุ้นเส้น,Bean vermicelli,ทั่วไป,0,0,0,0,3,2,3
+436,507-2527,ฟิวส์สำหรับใช้ในที่อยู่อาศัยและงานที่คล้ายคลึงกัน : ตัวยึดฟิวส์,Fuses for domestic and similar purposes: fuse holder,ทั่วไป,0,0,0,0,3,2,3
+437,547-2541,อิฐทนไฟไฟร์เคลย์,Fireclay refractory bricks,ทั่วไป,0,0,0,0,3,2,3
+438,605-2552,ผลิตภัณฑ์ชำระล้าง,Washing products,ทั่วไป,0,0,0,0,3,3,3
+439,640 เล่ม 2-2561,เอทานอลใช้ทางอุตสาหกรรมทั่วไป,Ethanol for industrial use,ทั่วไป,0,0,0,0,3,3,3
+440,660-2529,บันไดอะลูมิเนียม,Aluminium ladders,ทั่วไป,0,0,0,0,3,3,3
+441,718-2530,แบตเตอรี่ชนิดตะกั่ว-กรดใช้ประจำที่,Stationary lead acid storage batteries,ทั่วไป,0,0,0,0,3,3,3
+442,729-2553,กระสอบพลาสติก,Plastic sacks,ทั่วไป,0,0,0,0,3,3,3
+443,81-2548,ท่อซีเมนต์ใยหินชนิดทนความดัน,Asbestos cement pressure pipes,ทั่วไป,0,0,0,0,3,2,3
+444,836-2534,โพลิสไตรีนเรซิน,Polystyrene resin,ทั่วไป,0,0,0,0,3,1,3
+445,730-2558,วัสดุเชื่อมสิ้นเปลือง - ลวดเชื่อมไฟฟ้ามีสารพอกหุ้มใช้เชื่อมเหล็กกล้าไร้สนิม และเหล็กกล้าทนความร้อนด้วยการเชื่อมอาร์กโลหะด้วยมือ - การจำแนกประเภท,Welding consumables - Covered electrodes for manual metal arc welding stainless and heat-resisting steels - Classification,ทั่วไป,0,0,0,0,3,2,3
+446,59-2561,อิฐคอนกรีต,Concrete building brick,ทั่วไป,0,0,0,0,3,3,3
+447,2623 เล่ม 2(2)-2560,ลูกถ้วยแขวนในระบบส่งไฟฟ้า : พอร์ซเลน,Transmission suspension type porcelain insulators,ทั่วไป,0,0,0,0,3,3,3
+448,55-2562,เหล็กเส้นแบนและสี่เหลี่ยมจัตุรัส,Flat and square steel bars,ทั่วไป,0,0,0,0,3,2,3
+449,2480-2562,หน้ากากใช้ครั้งเดียวชนิด N95 ลดความเสี่ยงการติดเชื้อทางการแพทย์,Single-use N95 mask for decreasing the risk of air-borne transmitted infection,ทั่วไป,0,0,0,0,3,3,3
+450,2982-2562,เหล็กกล้าทรงแบนรีดร้อนที่ต้านการกัดกร่อนในบรรยากาศ สำหรับงานโครงสร้างเชื่อมประกอบ,HOT-ROLLED ATMOSPHERIC CORROSION RESISTING FLAT STEELS FOR WELDED STRUCTURE,ทั่วไป,0,0,0,0,3,3,3
+451,83-2561,น้ำส้มสายชู,Vinegar,ทั่วไป,0,0,0,0,3,3,3
+452,3029-2563,มอร์ตาร์ควบคุมการกัดกร่อนของเหล็กโครงสร้างในคอนกรีต,Activating mortar for corrosion control products for structural steels in concrete,ทั่วไป,0,0,0,0,3,2,3
+453,638-2563,แป้งข้าวเจ้า,Rice flour,ทั่วไป,0,0,0,0,3,3,3
+454,639-2563,แป้งข้าวเหนียว,Glutinous rice flour,ทั่วไป,0,0,0,0,3,3,3
+455,829-2563,วงกบและกรอบบานโลหะสำหรับประตูและหน้าต่าง: ประตูอะลูมิเนียม,Metal frames and panel frames for doors and windows: aluminium doors,ทั่วไป,0,0,0,0,3,3,3
+456,640 เล่ม 6-2563,เอทานอลสำหรับอุตสาหกรรมอาหาร,Ethanol fod food industry,ทั่วไป,0,0,0,0,3,3,3
+457,2132-2564,เหล็กแผ่นเคลือบสังกะสีโดยกรรมวิธีจุ่มร้อน และเคลือบสี : แผ่นลอน,Prepainted hot-dip zinc-coated steel : corrugated,ทั่วไป,0,0,0,0,3,2,3
+458,237-2564,แหวนยางสำหรับท่อน้ำ,Rubber ring for water pipe,ทั่วไป,0,0,0,0,3,3,3
+459,287-2565,กระดาษพิมพ์และเขียน,Printing and writing paper,ทั่วไป,0,0,0,0,3,3,3
+460,14-2565,มอโนโซเดียม แอล-กลูทาเมต,Monosodium L-glutamate,ทั่วไป,0,0,0,0,3,3,3
+461,770-2567,ท่อเหล็กกล้าเคลือบสังกะสีสำหรับใช้ร้อยสายไฟฟ้า,Zinc Coated Steel Conduits Electrical Wiring,ทั่วไป,0,0,0,0,3,2,3
+462,60335 เล่ม 2(41)-2567,ความปลอดภัยของเครื่องใช้ไฟฟ้าสำหรับใช้ในที่อยู่อาศัยและเครื่องใช้ไฟฟ้าอื่นที่คล้ายกัน เล่ม 2(41) ข้อกำหนดเฉพาะสำหรับเครื่องสูบของเหลว,HOUSEHOLD AND SIMILAR ELECTRICAL APPLIANCES - SAFETY - PART 2-41: PARTICULAR REQUIREMENTS FOR PUMPS,ทั่วไป,0,0,0,0,3,3,3
+463,1045-2535,กระดาษพิมพ์ต่อเนื่อง,Papers for continuous forms,ทั่วไป,0,0,0,0,2,2,2
+464,1052-2534,ชุดระบายน้ำหลังคา,Roof drains,ทั่วไป,0,0,0,0,2,2,2
+465,1129-2535,ชุดพื้นยก,Elevated flooring,ทั่วไป,0,0,0,0,2,2,2
+466,1178-2549,สารขึ้นรูปยูเรียฟอร์มาลดีไฮด์,Urea formaldehyde moulding compounds,ทั่วไป,0,0,0,0,2,2,2
+467,1189-2536,ก๊อกน้ำสำหรับฝักบัวอาบน้ำ,Faucets for shower baths,ทั่วไป,0,0,0,0,2,2,2
+468,124-2518,สายพานแบนส่งกำลัง,Flat rubber belt for power transmission,ทั่วไป,0,0,0,0,2,2,2
+469,1282-2538,สะดือสำหรับอ่างล้างหน้า-ล้างมือ,Wastes for wash basins,ทั่วไป,0,0,0,0,2,2,2
+470,131-2523,รองเท้าแตะฟองน้ำ,Rubber slippers,ทั่วไป,0,0,0,0,2,2,2
+471,1414-2540,แผงรั้วโลหะ,Metal fence panels,ทั่วไป,0,0,0,0,2,2,2
+472,1425-2540,ที่นอนยางฟองน้ำลาเทกซ์,Latex foam rubber mattresses,ทั่วไป,0,0,0,0,2,2,2
+473,1500-2541,บานประตูรั้วโลหะ,Metal gates,ทั่วไป,0,0,0,0,2,2,2
+474,156-2518,พิวเตอร์,Pewter,ทั่วไป,0,0,0,0,2,2,2
+475,1580-2541,บัตรชี้บ่งลักษณะเฉพาะตัว - ลักษณะสมบัติทางกายภาพ,Identification cards -Physical Characteristics,ทั่วไป,0,0,0,0,2,1,2
+476,163-2535,ลวดเหล็กกล้าคาร์บอนต่ำอบอ่อน,Annealed low carbon steel wires,ทั่วไป,0,0,0,0,2,2,2
+477,167-2528,อิฐประดับคัลเซียมซิลิเกตหรืออิฐปูนขาวทราย,Calcium silicate face bricks or sand-lime bricks,ทั่วไป,0,0,0,0,2,1,2
+478,1732-2558,กระจกเงา,Mirror Glass,ทั่วไป,0,0,0,0,2,2,2
+479,1984-2543,แผ่นยิปซัมเสริมใยแก้ว,Glass fibre reinforced gypsum plasterboards,ทั่วไป,0,0,0,0,2,1,2
+480,199-2534,ซิป,Slide fasteners,ทั่วไป,0,0,0,0,2,1,2
+481,21-2515,เครื่องเงิน,Silverware,ทั่วไป,0,0,0,0,2,2,2
+482,2107-2544,หัวดับเพลิงไม่มีประตูน้ำ,Wet - barrel fire hydrants,ทั่วไป,0,0,0,0,2,2,2
+483,2136-2545,แอนทราไซต์สำหรับกรองน้ำ,Anthracite for water filtration,ทั่วไป,0,0,0,0,2,2,2
+484,214-2560,กระดาษชำระ,Toilet tissue paper,ทั่วไป,0,0,0,0,2,2,2
+485,2141-2546,อ่างอาบน้ำอะคริลิกเสริมใยแก้ว,Glass fibre reinforced acrylic bathtubs,ทั่วไป,0,0,0,0,2,2,2
+486,2147-2546,ก๊อกน้ำอัตโนมัติสำหรับเครื่องสุขภัณฑ์,Automatic faucets for sanitary wares,ทั่วไป,0,0,0,0,2,2,2
+487,2378-2559,บล็อกยางปูพื้น,Rubber paving blocks,ทั่วไป,0,0,0,0,2,2,2
+488,2392-2551,เครื่องกรองน้ำดื่ม,Drinking water filters,ทั่วไป,0,0,0,0,2,2,2
+489,2477-2552,ถุงฝายยาง,Rubber weir bag,ทั่วไป,0,0,0,0,2,2,2
+490,2479-2552,ยางกันเรือกระแทกรูปท่อทรงกระบอกและรูปตัววี,Marine rubber fenders : cylindrical shape and v-shape,ทั่วไป,0,0,0,0,2,2,2
+491,253-2521,แหและอวน : ไนลอนและโพลิเอทิลีน,Fishing net: nylon and polyethylene,ทั่วไป,0,0,0,0,2,1,2
+492,2676-2558,ท่อเหล็กกล้าไร้สนิมออสเทไนต์สำหรับใช้งานทั่วไป,Austenitic stainless steel tubes for general service,ทั่วไป,0,0,0,0,2,2,2
+493,2733-2559,น้ำยางคอมพาวด์เคลือบผ้าปูสระกักเก็บน้ำ,Latex compounds for coating fabrics,ทั่วไป,0,0,0,0,2,2,2
+494,2762-2559,ลูกถ้วยแยกสายไฟฟ้าพอร์ซเลนชนิดเคลือบเซรามิกพร้อมพอลิเมอร์ยึดสายไฟฟ้า,Ceramic glazed porcelain cable spacers with polymer clamps,ทั่วไป,0,0,0,0,2,2,2
+495,2764-2559,ท่อลอนพอลิเอทิลีนเสริมเหล็ก,Steel reinforced polyethylene corrugated pipe,ทั่วไป,0,0,0,0,2,2,2
+496,279-2525,ลูกถ้วยก้านตรง : ปอร์ซเลน,Pin-type porcelain insulators,ทั่วไป,0,0,0,0,2,1,2
+497,310-2522,ท่อเหล็กกล้าสำหรับทำรถจักรยาน,Steel tubes for bicycle purposes,ทั่วไป,0,0,0,0,2,1,2
+498,328-2551,สีอะลูมิเนียมรองพื้นสำหรับงานไม้,Aluminium priming paint for woodwork,ทั่วไป,0,0,0,0,2,2,2
+499,337-2545,กลีเซอรีนบริสุทธิ์,Refined glycerine,ทั่วไป,0,0,0,0,2,2,2
+500,349-2561,เหล็กลวดคาร์บอนสูง,High carbon steel wire rods,ทั่วไป,0,0,0,0,2,2,2
+501,365-2532,ตะกั่วบัดกรี : แท่ง,Soft solder bars and ingots,ทั่วไป,0,0,0,0,2,2,2
+502,403-2532,แคลเซียมคาร์บอเนตสำหรับอุตสาหกรรมสีและพลาสติก,Calcium carbonate for paint and plastic industries,ทั่วไป,0,0,0,0,2,2,2
+503,436-2525,ตู้เหล็กเก็บบัตรดัชนี,Steel index card cabinets,ทั่วไป,0,0,0,0,2,1,2
+504,464-2544,กรดซิทริก,Citric acid,ทั่วไป,0,0,0,0,2,2,2
+505,47-2561,น้ำมันและไขมันสำหรับบริโภค,Edible fats and oils,ทั่วไป,0,0,0,0,2,2,2
+506,470-2526,น้ำผึ้ง,Honey,ทั่วไป,0,0,0,0,2,2,2
+507,474-2542,ผลิตภัณฑ์ทำความสะอาดประเภทเหลวสำหรับถ้วยชาม,"Cleaning product for dishwashing, liquid type",ทั่วไป,0,0,0,0,2,1,2
+508,486-2527,ใยแก้ว,Glasswool,ทั่วไป,0,0,0,0,2,2,2
+509,504-2527,วงกบและกรอบบานไม้สำหรับประตูและหน้าต่าง,Wooden frames and panel frames for door and window,ทั่วไป,0,0,0,0,2,1,2
+510,548-2541,อิฐทนไฟอะลูมินาสูง,High-alumina refractory bricks,ทั่วไป,0,0,0,0,2,2,2
+511,632-2551,พอลิไวนิลคลอไรด์เรซิน,Polyvinyl chloride resin,ทั่วไป,0,0,0,0,2,2,2
+512,633-2531,ลูกยางสีข้าว,Rubber rolls for paddy dehuskers,ทั่วไป,0,0,0,0,2,1,2
+513,689-2530,ได-2-เอทิลเฮกซิลทาเลต,Di-2-ethylhexyl phthalate,ทั่วไป,0,0,0,0,2,1,2
+514,692-2560,กำมะถันสำหรับอุตสาหกรรม,Sulfur for industrial use,ทั่วไป,0,0,0,0,2,2,2
+515,710-2530,พัดลมไฟฟ้ากระแสสลับชนิดระบายอากาศ,A.C. electric ventilating type fans,ทั่วไป,0,0,0,0,2,1,2
+516,738-2547,นมสด,Fresh milk,ทั่วไป,0,0,0,0,2,2,2
+517,76-2517,ลวดหนามเคลือบสังกะสี,Galvanized barbed wires,ทั่วไป,0,0,0,0,2,2,2
+518,773-2531,ดอกไม้ประดิษฐ์,Artificial flowers,ทั่วไป,0,0,0,0,2,1,2
+519,776-2552,หลอดพลาสติกสำหรับอาหาร,Plastic straws for food,ทั่วไป,0,0,0,0,2,2,2
+520,796-2544,เครื่องสุขภัณฑ์วิเทรียสไชนา : โถชำระล้าง,Vitreous china sanitary appliances: bidets,ทั่วไป,0,0,0,0,2,2,2
+521,801-2562,นั่งร้านท่อเหล็กกล้าแบบโครง,Tubular steel scaffolding : frame type,ทั่วไป,0,0,0,0,2,2,2
+522,9-2550,ลูกแบดมินตัน,Badminton Shuttle,ทั่วไป,0,0,0,0,2,2,2
+523,952-2533,หมึกอัดสำเนา,Duplicating ink,ทั่วไป,0,0,0,0,2,2,2
+524,1439-2558,ท่อเหล็กกล้าไร้สนิมออสเทไนต์สำหรับหม้อน้ำเครื่องกำเนิดไอน้ำยวดยิ่ง เครื่องแลกเปลี่ยนความร้อน และเครื่องควบแน่น,"Austenitic stainless steel tubes for boiler, superheater, heat-exchanger, and condenser",ทั่วไป,0,0,0,0,2,2,2
+525,2086-2556,เกลือบริโภคบริสุทธิ์เสริมไอโอดีน,Refines Edible Common Iodized Salt,ทั่วไป,0,0,0,0,2,2,2
+526,1006-2558,ท่อเหล็กกล้าไร้สนิมออสเทไนต์สำหรับงานอุณหภูมิสูงและทนการกัดกร่อนทั่วไป,Austenitic stainless steel pipe for high - Temperature and general corrosive service,ทั่วไป,0,0,0,0,2,2,2
+527,2774-2560,กำมะถันสำหรับอุตสาหกรรมยาง,Sulfur for rubber industries,ทั่วไป,0,0,0,0,2,2,2
+528,2773-2560,รถตัดอ้อย,Sugarcane harvester,ทั่วไป,0,0,0,0,2,2,2
+529,2900-2561,แท่นพลาสติกกั้นจราจร,Plastic traffic barriers,ทั่วไป,0,0,0,0,2,1,2
+530,2917-2561,ท่อพอลิเอทิลีนผนังโครงสร้างแบบเรียบสำหรับงานท่อใต้ดิน,Polyethylene structured-well pipes with smooth external surface for underground,ทั่วไป,0,0,0,0,2,2,2
+531,331-2561,อะลูมิเนียมทรงแบนรีดเย็น สำหรับงานทั่วไปและงานขึ้นรูป,Cold rolled aluminium flat products for general purpose and forming,ทั่วไป,0,0,0,0,2,2,2
+532,1378-2559,เหล็กกล้าไร้สนิมทรงแบนรีดเย็น แผ่นม้วน แผ่นแถบ และแผ่นตัด,"Flat cold-rolled stainless steel in coil, strip and sheet",ทั่วไป,0,0,0,0,2,1,2
+533,2952-2561,ยานยนต์ประเภท L : คุณลักษณะเฉพาะสำหรับระบบส่งกำลังด้วยไฟฟ้า,Vehicles of category L with regard to specific requirements for the electric power train,ทั่วไป,0,0,0,0,2,2,2
+534,2973-2562,พอลิเมอร์เสริมเส้นใย สำหรับงานโครงสร้างคอนกรีตไม่อัดแรง,Fibre-reinforced polymers for non-prestressed concrete structures,ทั่วไป,0,0,0,0,2,2,2
+535,1395-2562,บล็อกแก้วกลวง,Hollow glass blocks,ทั่วไป,0,0,0,0,2,1,2
+536,915 เล่ม 1-2562,วาล์วถังก๊าซปิโตรเลียมเหลว เล่ม 1 แบบกดล็อก,Specifications and testing of LPG cylinder valves Part 1 : self-colsing,ทั่วไป,0,0,0,0,2,2,2
+537,640 เล่ม 4-2561,เอทานอลสำหรับใช้ในเครื่องสำอาง,Ethanol for cosmetics use,ทั่วไป,0,0,0,0,2,2,2
+538,155-2562,น้ำหวานเข้มข้น,Flavoured syrup,ทั่วไป,0,0,0,0,2,1,2
+539,469-2561,สีซีเมนต์,Powder cement paints,ทั่วไป,0,0,0,0,2,2,2
+540,3026-2563,ยานยนต์ประเภท M และ N: คุณลักษณะเฉพาะสำหรับระบบส่งกำลังด้วยไฟฟ้า,Vehicles of category M and N with regard to specific requirements for the electric power train,ทั่วไป,0,0,0,0,2,1,2
+541,3024 เล่ม 2-2563,ส่วนประกอบระบบป้องกันฟ้าผ่า (LPSC) เล่ม 2 คุณลักษณะที่ต้องการสำหรับตัวนำและหลักดิน,Lightning protection system components (LPSC) - Part 2: Requirements for conductors and earth electrodes,ทั่วไป,0,0,0,0,2,1,2
+542,271-2563,บะหมี่กึ่งสำเร็จรูป,Instant noodles,ทั่วไป,0,0,0,0,2,1,2
+543,568-2563,คาร์บอนไดออกไซด์อุตสาหกรรม,Industrial carbon dioxide,ทั่วไป,0,0,0,0,2,2,2
+544,1512-2563,สีย้อมไม้ชนิดน้ำ,Water-based wood stain (Wiping),ทั่วไป,0,0,0,0,2,2,2
+545,1406-2564,สีเคลือบด้านแอลคีด,Flat alkyd enamel,ทั่วไป,0,0,0,0,2,2,2
+546,3173-2564,สารสกัดจากกัญชงที่มีปริมาณแคนนาบิไดออลรวม ไม่น้อยกว่า 80% โดยมวล,Hemp extract containing total cannabidol not less than 80% by mass,ทั่วไป,0,0,0,0,2,2,2
+547,1005-2564,สีเคลือบกึ่งเงาแอลคีด,Semigloss alkyd enamel,ทั่วไป,0,0,0,0,2,2,2
+548,3024 เล่ม 5-2564,ส่วนประกอบระบบป้องกันฟ้าผ่า (LPSC) เล่ม 5 คุณลักษณะที่ต้องการสำหรับกล่องตรวจสอบหลักดินและซีลหลักดิน,Lighting protection system components (LPSC) - Part 5: Requirements for earth electrode inspection housing and earth electrodes seals,ทั่วไป,0,0,0,0,2,2,2
+549,3399-2565,น้ำยางคอมพาวนด์สำหรับปรับคุณภาพดินซีเมนต์,Latex compound for modified soil cement,ทั่วไป,0,0,0,0,2,2,2
+550,805-2565,เครื่องปรับความดันก๊าซปิโตรเลียมเหลว : ความดันต่ำ,LPG - Gas Regulator: Low-pressure,ทั่วไป,0,0,0,0,2,2,2
+551,875-2565,เครื่องปรับความดันก๊าซปิโตรเลียมเหลว : ความดันสูง,LPG - Gas Regulator: High-pressure,ทั่วไป,0,0,0,0,2,2,2
+552,3460-2565,เชื้อเพลิงขยะ,Refuse derived fuel,ทั่วไป,0,0,0,0,2,1,2
+553,900-2565,ถ่านกัมมันต์สำหรับอุตสาหกรรมทั่วไป,ACTIVATED CARBON FOR INDUSTRIAL USES,ทั่วไป,0,0,0,0,2,2,2
+554,3286-2564,ลวดชุบแข็งและอบคืนตัวสำหรับคอนกรีตอัดแรง,QUENCHED AND TEMPERED WIRE FOR PRESTRESSED CONCRETE,บังคับ,1,1,0,0,1,1,2
+555,13-2566,กรดซัลฟิวริกสำหรับแบตเตอรี่ชนิดตะกั่ว-กรด,SULFURIC ACID FOR LEAD - ACID BATTERIES,ทั่วไป,0,0,0,0,2,2,2
+556,878-2566,แผ่นชิ้นไม้อัดซีเมนต์ : ความหนาแน่นสูง,CEMENT BONDED PARTICLEBOARDS : HIGH DENSITY,ทั่วไป,0,0,0,0,2,2,2
+557,854-2566,อ่างเหล็กกล้าไร้สนิมสำหรับล้างชาม,STAINLESS STEEL SINKS,ทั่วไป,0,0,0,0,2,2,2
+558,849-2566,ปูนซีเมนต์ปอร์ตแลนด์ปอซโซลาน,Portland pozzolan cement,ทั่วไป,0,0,0,0,2,2,2
+559,2143 เล่ม 1-2567,สายไฟฟ้าแรงดันสูงหุ้มฉนวนและอุปกรณ์ส่วนควบใช้กับแรงดันไฟฟ้าที่กำหนดตั้งแต่ 1 kV ถึงไม่เกิน 30 kV เล่ม 1 สายไฟฟ้าใช้กับแรงดันไฟฟ้าที่กำหนด 1 kV และ 3 kV,POWER CABLES WITH EXTRUDED INSULATION AND THEIR ACCESSORIES FOR RATED VOLTAGES FROM 1 kV (Um = 1.2 kV) UP TO 30 kV (Um = 36 kV) - PART 1: CABLES FOR RATED VOLTAGES OF 1 kV (Um = 1.2 kV) AND 3 kV (Um = 3.6 kV),ทั่วไป,0,0,0,0,2,2,2
+560,1033-2552,แลกเกอร์แอโรซอล,Aerosol lacquer,ทั่วไป,0,0,0,0,1,1,1
+561,1065-2534,เบนทอไนต์สำหรับทำโคลนเจาะ,Drilling-mud bentonite,ทั่วไป,0,0,0,0,1,1,1
+562,1092-2548,สีรองพื้นกัดผิว,Etching primer,ทั่วไป,0,0,0,0,1,1,1
+563,111-2538,ผ้าถักวงกลม,Circular knitting fabrics,ทั่วไป,0,0,0,0,1,1,1
+564,1132-2536,ภาชนะพลาสติกสำหรับบรรจุผลิตภัณฑ์ปิโตรเลียมจุดวาบไฟสูง,Containers for high flash point petroleum products,ทั่วไป,0,0,0,0,1,1,1
+565,115-2529,กุ้งเยือกแข็ง,Quick frozen shrimps or prawns,ทั่วไป,0,0,0,0,1,1,1
+566,1170-2536,ฟรักโทสซิรัป,Fructose syrup,ทั่วไป,0,0,0,0,1,1,1
+567,1181-2536,ขวดนมพลาสติก,Plastic babies' bottles,ทั่วไป,0,0,0,0,1,1,1
+568,1200-2536,หมุดเกลียวเหล็กกล้าไร้สนิมยึดกระดูกหัวหลุมหกเหลี่ยมฐานหัวจมรูปทรงกลมเกลียวอสมมาตร,"Stainless steel bone screws with hexagonal drive connection, spherical under-surface of head, asymmetrical thread",ทั่วไป,0,0,0,0,1,1,1
+569,1283-2538,เครื่องตัดหญ้าแบบใบมีดหมุนเหวี่ยงตามแนวระดับสำหรับรถแทรกเตอร์ล้อยางเพื่อการเกษตร,Rotary slashers,ทั่วไป,0,0,0,0,1,1,1
+570,1318-2552,ทินเนอร์ระเหยช้า,Retarded thinner,ทั่วไป,0,0,0,0,1,1,1
+571,1342-2539,น้ำตาลทรายแดง,Brown sugar,ทั่วไป,0,0,0,0,1,1,1
+572,1350-2539,รถแทรกเตอร์เดินตาม,Walk-behind tractors,ทั่วไป,0,0,0,0,1,1,1
+573,1388-2539,ทองแดงและทองแดงเจือแผ่นและแผ่นแถบ,Copper and copper alloy sheets and strips,ทั่วไป,0,0,0,0,1,1,1
+574,1404-2540,ที่นอนฟองน้ำโพลิยูรีเทน,Flexible polyurethane foam mattresses,ทั่วไป,0,0,0,0,1,1,1
+575,1424-2540,เครื่องเรือนสำหรับสำนักงาน: ฉากกั้นห้อง,Office furniture: Partitions,ทั่วไป,0,0,0,0,1,1,1
+576,1561-2556,บริภัณฑ์เทคโนโลยีสารสนเทศ - ความปลอดภัย เล่ม 1 คุณลักษณะที่ต้องการทั่วไป,information technology equipment - safety - part 1 : general requirements,ทั่วไป,0,0,0,0,1,1,1
+577,1678-2541,หมึกประทับตรา,Stamp pad ink,ทั่วไป,0,0,0,0,1,1,1
+578,173-2529,ยางฟองน้ำลาเทกซ์,Latex foam rubbers,ทั่วไป,0,0,0,0,1,1,1
+579,1777-2558,แคโพรแล็กแทมสำหรับอุตสาหกรรม,Caprolactam for industrial use,ทั่วไป,0,0,0,0,1,1,1
+580,181-2530,กาวโพลิไวนิลอะซีเทตอิมัลชัน,Polyvinyl acetate emulsion adhesives,ทั่วไป,0,0,0,0,1,1,1
+581,200-2536,ลวดเสียบกระดาษ,Paper-clips,ทั่วไป,0,0,0,0,1,1,1
+582,2083-2544,ผลิตภัณฑ์ทำความสะอาดสำหรับกระเบื้องและเครื่องสุขภัณฑ์เซรามิก ประเภทสารลดแรงตึงผิว,"Cleaning product for ceramic tite and sanitary wares, surfactant type",ทั่วไป,0,0,0,0,1,1,1
+583,2084-2552,กระบอกฉีดอินซูลินปราศจากเชื้อชนิดใช้ครั้งเดียว,Sterile single-use syringes for insulin,ทั่วไป,0,0,0,0,1,1,1
+584,2115-2545,ไม้พื้นอัดซ้อนเคลือบผิวสำเร็จ,Pre-finished multiply wood flooring,ทั่วไป,0,0,0,0,1,1,1
+585,2117-2545,ผลิตภัณฑ์ทำความสะอาดเครื่องครัว,Kitchen appliance and utensil cleaning product,ทั่วไป,0,0,0,0,1,1,1
+586,2118-2545,ที่รองนั่งและฝาพลาสติกสำหรับโถส้วม,Plastic seats and covers for water-closets,ทั่วไป,0,0,0,0,1,1,1
+587,2133-2545,ท่อเหล็กกล้าอ่อนเคลือบสังกะสีสำหรับร้อยสายไฟฟ้า,Zinc coated flexible steel conduits for electrical wiring,ทั่วไป,0,0,0,0,1,1,1
+588,2135-2545,เถ้าลอยจากถ่านหินใช้เป็นวัสดุผสมคอนกรีต,Coal fly ash for use as an admixture in concrete,ทั่วไป,0,0,0,0,1,1,1
+589,2138-2559,เครื่องแบบนักเรียน : ผ้าเครื่องแบบนักเรียน,School uniforms : Fabrics,ทั่วไป,0,0,0,0,1,1,1
+590,2148-2546,ก๊อกน้ำอัตโนมัติสำหรับเครื่องสุขภัณฑ์ เฉพาะด้านสิ่งแวดล้อม : การประหยัดน้ำ,Automatic faucets for sanitary wares : environment requirements ; water-savings,ทั่วไป,0,0,0,0,1,1,1
+591,2203-2558,กระจกลวดลาย,Patterned glass,ทั่วไป,0,0,0,0,1,1,1
+592,221-2558,ซิงก์ออกไซด์สำหรับอุตสาหกรรมทั่วไป,Zinc oxide for general industrial use,ทั่วไป,0,0,0,0,1,1,1
+593,2254-2561,สีเท็กซ์เจอร์,Textured paint,ทั่วไป,0,0,0,0,1,1,1
+594,2274-2549,ผลิตภัณฑ์ฟอกผ้าประเภทเพอร์ออกไซด์,"Fabric bleaching product, peroxide type",ทั่วไป,0,0,0,0,1,1,1
+595,229-2540,อะเซทิลีน,Dissolved acetylene,ทั่วไป,0,0,0,0,1,1,1
+596,2345-2550,ธูป,Incense,ทั่วไป,0,0,0,0,1,1,1
+597,2357-2550,ท่ออะคริโลไนไทรล์-บิวทาไดอีน-สไตรีน (เอบีเอส) ทนความดัน,Acrylonitrile-butadiene-styrene (ABS) pressurepipe,ทั่วไป,0,0,0,0,1,1,1
+598,2369-2551,กรดไนทริกสำหรับอุตสาหกรรม,Nitric acid for industrial use,ทั่วไป,0,0,0,0,1,1,1
+599,238-2520,ถังน้ำเหล็กอาบสังกะสี,Galvanized mild steel water tanks,ทั่วไป,0,0,0,0,1,1,1
+600,2385-2551,สายต่อใช้ในการแพทย์,Extension tubes for medical use,ทั่วไป,0,0,0,0,1,1,1
+601,2426-2552,เตาเผาไฟฟ้า : แบบความต้านทาน,Electric resistance furnaces,ทั่วไป,0,0,0,0,1,1,1
+602,247-2552,ด้ายเย็บพอลิเอสเทอร์,Polyester sewing thread,ทั่วไป,0,0,0,0,1,1,1
+603,2502-2553,พรมทอ,Woven carpets,ทั่วไป,0,0,0,0,1,1,1
+604,2505-2553,ถุงมือยางที่ใช้ในอุตสาหกรรมอาหาร,Rubber gloves for food industry,ทั่วไป,0,0,0,0,1,1,1
+605,2515-2555,สีเคลือบเงาชนิดน้ำ,Water-borne gloss enamel paints,ทั่วไป,0,0,0,0,1,1,1
+606,2555-2554,รถยนต์ขนาดเล็กที่ใช้เครื่องยนต์แบบจุดระเบิดด้วยประกายไฟที่ใช้ก๊าซธรรมชาติหรือก๊าซปิโตรเลียมเหลวเป็นเชื้อเพลิง เฉพาะด้านความปลอดภัย : สารมลพิษจากเครื่องยนต์ ระดับที่ 1,"Light motor vehicle equipped with positive ignition engines fuelled with natural gas or liquefied petroleum gas : safety requirements ; emission from engine, level 1",บังคับ,1,1,0,0,0,0,1
+607,2600-2556,กระเบื้องหินขัดชั้นเดียว,Single - Layered terrazzo tiles,ทั่วไป,0,0,0,0,1,1,1
+608,2667-2558,แผ่นยางรองรางรถไฟ,Rubber rail pads,ทั่วไป,0,0,0,0,1,1,1
+609,2685-2558,แผ่นอะคริลิกใช้งานทั่วไป : แผ่นหล่อต่อเนื่อง,General Purposes Acrylic Sheets : Continuous Cast Sheets,ทั่วไป,0,0,0,0,1,1,1
+610,291 เล่ม 1-2530,สลักเกลียวหัวหกเหลี่ยม เล่ม 1 ผลิตภัณฑ์ขั้น A และ B,Hexagon head bolts : Producd grades A and B,ทั่วไป,0,0,0,0,1,1,1
+611,306-2541,วงล้อรถจักรยานยนต์,Motorcycle spoke rims,ทั่วไป,0,0,0,0,1,1,1
+612,319 เล่ม 2-2551,ปูนไลม์อุตสาหกรรม เล่ม 2 ปูนขาว,Industrial lime Part 2 hydrated lime,ทั่วไป,0,0,0,0,1,1,1
+613,324-2522,ซี่ล้อรถจักรยานยนต์,Motorcycle spokes,ทั่วไป,0,0,0,0,1,1,1
+614,329-2542,ผลิตภัณฑ์ทำความสะอาดประเภทกรดสำหรับกระเบื้องและเครื่องสุขภัณฑ์เซรามิก,"Cleaning product for ceramic tile and sanitary wares, acid type",ทั่วไป,0,0,0,0,1,1,1
+615,340-2528,ท่อไอเสียรถยนต์,"Exhaust system for car, bus and truck",ทั่วไป,0,0,0,0,1,1,1
+616,351-2527,โซ่รถจักรยาน,Bicycle chains,ทั่วไป,0,0,0,0,1,1,1
+617,402-2532,แคลเซียมคาร์บอเนตสำหรับอุตสาหกรรมยาง,Calcium carbonate for rubber industry,ทั่วไป,0,0,0,0,1,1,1
+618,418-2525,โซ่ส่งกำลัง,Transmission roller chains,ทั่วไป,0,0,0,0,1,1,1
+619,426-2525,ผ้าใบไวนิลอนชนิดเคลือบพีวีซี,PVC coated vinylon fabric,ทั่วไป,0,0,0,0,1,1,1
+620,442-2525,แผ่นฝอยไม้ซีเมนต์อัดชนิดใช้งานทั่วไป,Wood wool cement board,ทั่วไป,0,0,0,0,1,1,1
+621,45-2552,ยาสีฟัน,Toothpastes,ทั่วไป,0,0,0,0,1,1,1
+622,463-2544,สารละลายซอร์บิทอล,Sorbitol solution,ทั่วไป,0,0,0,0,1,1,1
+623,517-2558,ขวดพลาสติกสำหรับบรรจุยาเม็ดและแคปซูล,Plastics bottles for pharmaceutical tablets and capsules,ทั่วไป,0,0,0,0,1,1,1
+624,564-2546,ภาชนะเซรามิกที่ใช้กับอาหาร : พอร์ซเลน,Ceramic ware in contact with food : porcelain,ทั่วไป,0,0,0,0,1,1,1
+625,6 เล่ม 1-2559,แบตเตอรี่ใช้สตาร์ต ชนิดตะกั่ว-กรด เล่ม 1 คุณลักษณะที่ต้องการทั่วไปและวิธีทดสอบ,Lead-acid starter batteries - Part 1: General requirements and methods of test,ทั่วไป,0,0,0,0,1,1,1
+626,603-2546,ภาชนะแก้วที่ใช้กับอาหาร,Glassware in contact with food,ทั่วไป,0,0,0,0,1,1,1
+627,610-2552,น้ำยาลอกสี,paint remover,ทั่วไป,0,0,0,0,1,1,1
+628,622-2529,ท่อซีเมนต์ใยหินสำหรับงานระบายน้ำทั่วไป,Sewerage and drainage asbestos cement pipes,ทั่วไป,0,0,0,0,1,1,1
+629,640 เล่ม 3-2553,เอทานอลใช้เป็นเชื้อเพลิง,Ethanol for fuel use,ทั่วไป,0,0,0,0,1,1,1
+630,653-2554,ภาชนะพลาสติกสำหรับบรรจุนมและผลิตภัณฑ์นม,Plastic containers for milk and milk products,ทั่วไป,0,0,0,0,1,1,1
+631,696-2530,ลูกกวาดและทอฟฟี่,Hard candies and toffees,ทั่วไป,0,0,0,0,1,1,1
+632,697-2530,ยางหุ้มขอบกระจกรถยนต์,Weather strips for automobile,ทั่วไป,0,0,0,0,1,1,1
+633,713-2541,จาระบี,Lubricating grease,ทั่วไป,0,0,0,0,1,1,1
+634,717-2530,เครื่องเย็บกระดาษ,Staplers,ทั่วไป,0,0,0,0,1,1,1
+635,719-2530,แบตเตอรี่รถจักรยานยนต์,Motorcycle batteries,ทั่วไป,0,0,0,0,1,1,1
+636,75-2560,ปุ๋ยเคมี,Chemical fertilizers,ทั่วไป,0,0,0,0,1,1,1
+637,757-2531,กุญแจคล้องสายยู,Padlocks,ทั่วไป,0,0,0,0,1,1,1
+638,758-2551,กระดาษหนังสือพิมพ์,Newsprint,ทั่วไป,0,0,0,0,1,1,1
+639,777-2552,กระบอกฉีดยาผ่านใต้ผิวหนังปราศจากเชื้อชนิดใช้ครั้งเดียว,Sterile hypodermic syringes for single use,ทั่วไป,0,0,0,0,1,1,1
+640,788-2531,ไส้หม้อกรองอากาศที่ใช้กับเครื่องยนต์สันดาปภายใน,Air filters for internal combustion engines,ทั่วไป,0,0,0,0,1,1,1
+641,800-2545,ยางขอบประตูรถยนต์,Door weather strips for automobiles,ทั่วไป,0,0,0,0,1,1,1
+642,821-2554,ปากกาสีน้ำ,Water-based marking pens,ทั่วไป,0,0,0,0,1,1,1
+643,84-2552,ชอล์กสำหรับกระดานดำ,Chalk for blackboard,ทั่วไป,0,0,0,0,1,1,1
+644,862-2532,บานพับสำหรับหน้าต่าง : บานพับปรับมุมชนิดฝืด,Window hinges: friction hinges,ทั่วไป,0,0,0,0,1,1,1
+645,913-2550,แคปซูลเจลาตินชนิดแข็ง,Hard gelatin capsules,ทั่วไป,0,0,0,0,1,1,1
+646,927-2533,แบไรต์สำหรับเจาะบ่อปิโตรเลียม,Barite for petroleum-well drilling,ทั่วไป,0,0,0,0,1,1,1
+647,948-2556,แป้งถั่วเขียว,Mung bean starch,ทั่วไป,0,0,0,0,1,1,1
+648,955 เล่ม 6-2554,สายไฟฟ้าหุ้มฉนวนยาง แรงดันไฟฟ้าที่กำหนดไม่เกิน 450/750 โวลต์ เล่ม 6 สายอิเล็กโทรดของเครื่องเชื่อมอาร์ก,Rubber insulated cables - rated voltages up to and including 450/750 V - Part 6: ARC welding electrode cables,ทั่วไป,0,0,0,0,1,1,1
+649,967-2533,กระเทียมผง,Dehydrated garlic powder,ทั่วไป,0,0,0,0,1,1,1
+650,980-2552,น้ำยางข้นธรรมชาติ,Natural rubber latex concentrate,ทั่วไป,0,0,0,0,1,1,1
+651,2085-2556,เกลือบริโภคเสริมไอโอดีน,Edible common iodised salt,ทั่วไป,0,0,0,0,1,1,1
+652,1062-2561,ท่อยางสำหรับงานเชื่อม งานตัด และงานประกบด้วยก๊าซ,"Rubber hoses for welding, cutting and allied processes",ทั่วไป,0,0,0,0,1,1,1
+653,2821-2560,พอลิอะลูมิเนียมคลอไรด์ชนิดผง,Polyaluminium chloride powder,ทั่วไป,0,0,0,0,1,1,1
+654,764-2561,ชุดปีกผีเสื้อใช้ครั้งเดียว,Scalp vein sets for single use,ทั่วไป,0,0,0,0,1,1,1
+655,2517-2561,หลอดให้สารละลายทางหลอดเลือดแบบมีเข็มนำใช้ครั้งเดียว,Over-needle peripheral catheters for single use,ทั่วไป,0,0,0,0,1,1,1
+656,96 เล่ม 2-2560,แบตเตอรี่ปฐมภูมิ เล่ม 2 ข้อกำหนดคุณลักษณะทางรูปร่างและทางไฟฟ้า,Primary batteries - Part 2 : Physical and electrical specifications,ทั่วไป,0,0,0,0,1,1,1
+657,2707-2560,ถังก๊าซ - ถังอะลูมิเนียมเจือมีรอยเชื่อมประเภทบรรจุก๊าซซ้ำ - การออกแบบ การสร้าง และการทดสอบ,"Gas Cylinders - Refillable welded aluminium - alloy cylinders - design, construction and testing",ทั่วไป,0,0,0,0,1,1,1
+658,239-2561,กระดาษเช็ดมือ,Hand towel paper,ทั่วไป,0,0,0,0,1,1,1
+659,240-2561,กระดาษเช็ดปาก,Napkin paper,ทั่วไป,0,0,0,0,1,1,1
+660,2441-2562,ถังก๊าซปิโตรเลียมเหลว : ถังคอมโพสิต,Liquefied petroleum gas container : composite cylinder,ทั่วไป,0,0,0,0,1,1,1
+661,3002-2562,อุปกรณ์ควบคุมหลอด - คุณลักษณะที่ต้องการเฉพาะสำหรับอุปกรณ์ควบคุมอิเล็กทรอนิกส์ ที่ใช้แหล่งจ่ายไฟฟ้ากระแสตรงหรือไฟฟ้ากระแสสลับสำหรับมอดูลแอลอีดี,Lamp controlgear - Part 2-13 : Particular requirements for D.C. or A.C. supplied electronic controlgear for LED modules,ทั่วไป,0,0,0,0,1,1,1
+662,609-2559,สีพ่นยานยนต์แห้งเร็วไนโตรเซลลูโลส: สีพื้นรองทับหน้า,Vehicle nitrocellulose lacquer: Primer surface,ทั่วไป,0,0,0,0,1,1,1
+663,2984-2562,ตู้น้ำดื่มหยอดเหรียญอัตโนมัติ,Drinking water vending machine,ทั่วไป,0,0,0,0,1,1,1
+664,3030-2563,เครื่องตรวจวัดฝุ่นละอองลอยหลักการไฟฟ้าสถิต,Electrostatic aerosol particulate matter (PM) monitor,ทั่วไป,0,0,0,0,1,1,1
+665,1316-2562,ชั้นโลหะวางของ,Metal shelf,ทั่วไป,0,0,0,0,1,1,1
+666,3024 เล่ม 1-2563,ส่วนประกอบระบบป้องกันฟ้าผ่า (LPSC) เล่ม 1 คุณลักษณะที่ต้องการสำหรับส่วนประกอบเชื่อมต่อ,Lightning protection system components (LPSC) - Part 1: Requirements for connection components,ทั่วไป,0,0,0,0,1,1,1
+667,3024 เล่ม 4-2563,ส่วนประกอบระบบป้องกันฟ้าผ่า (LPSC) เล่ม 4 คุณลักษณะที่ต้องการสำหรับตัวยึดตัวนำ,Lightning protection system components (LPSC) - Part 4: Requirements for conductor fasteners,ทั่วไป,0,0,0,0,1,1,1
+668,2892-2563,ซีเมนต์ยาแนวสำหรับกระเบื้องเซรามิก,Cement grout for ceramic tile,ทั่วไป,0,0,0,0,1,1,1
+669,93-2563,แหนบแผ่น - คุณลักษณะทางเทคนิค,Leaf spring - Technical specifictions,ทั่วไป,0,0,0,0,1,1,1
+670,2959-2562,เทอร์โมฟอร์มิงรับเบอร์,Thermoforming rubber,ทั่วไป,0,0,0,0,1,1,1
+671,183-2562,โกลว์สตาร์ตเตอร์สำหรับหลอดฟลูออเรสเซนซ์,Glow-starters for fluorescent lamps,บังคับ,0,0,1,1,0,0,1
+672,2011-2563,เหล็กกล้าทรงแบนรีดร้อน ที่ต้านการกัดกร่อนได้ดีในบรรยากาศ,Hot-rolled flat steel with improved atmospheric corrosion resistance,บังคับ,1,1,0,0,0,0,1
+673,897-2564,ไฮโดรเจนเพอร์ออกไซด์สำหรับอุตสาหกรรม,Hydrogen peroxide for industrial uses,ทั่วไป,0,0,0,0,1,1,1
+674,132-2564,รองเท้าผ้าใบ,Canvas shoes,ทั่วไป,0,0,0,0,1,1,1
+675,3209-2564,เครื่องยนต์แก๊สโซลีนขนาดเล็กระบายความร้อนด้วยอากาศ,Small air cooled gasoline engine,ทั่วไป,0,0,0,0,1,1,1
+676,2090-2564,เบียร์,Beer,ทั่วไป,0,0,0,0,1,1,1
+677,2303-2564,แผ่นฉนวนความร้อนใยแร่,Mineral fiber thermal insulation,ทั่วไป,0,0,0,0,1,1,1
+678,2243-2564,เหล็กลวดคาร์บอนสำหรับงานย้ำหัวและงานทุบขึ้นรูปเย็น,Carbon steel wire rods for cold heading,ทั่วไป,0,0,0,0,1,1,1
+679,8-2564,ซอสปรุงรส,Seasoning sauce,ทั่วไป,0,0,0,0,1,1,1
+680,3357-2565,เสาเข็มเหล็กกล้าแบบเกลียว,Screw steel piles,ทั่วไป,0,0,0,0,1,1,1
+681,3359-2565,อะลูมิเนียมกันกร่อนสำหรับป้องกันสนิมแบบแคโทดิก,Aluminium anode for cathodic corrosion protection,ทั่วไป,0,0,0,0,1,1,1
+682,274-2565,แป้งมันสำปะหลัง,Tapioca starch,ทั่วไป,0,0,0,0,1,1,1
+683,3413-2565,ลูกบอลดับเพลิงอัตโนมัติ,Automatic fire fighting ball,ทั่วไป,0,0,0,0,1,1,1
+684,3426-2565,เสาเข็มคอนกรีตกำลังสูงอัดแรงแบบแรงเหวี่ยง,Pretensiones spun high strength concrete piles,ทั่วไป,0,0,0,0,1,1,1
+685,3438-2565,กระดาษสัมผัสอาหารสำหรับปรุงอาหารด้วยความร้อน,Cooking paper,ทั่วไป,0,0,0,0,1,1,1
+686,3459-2565,โซ่เหล็กกล้า,Steel chain,ทั่วไป,0,0,0,0,1,1,1
+687,618-2565,สารยึดสำหรับสีและวาร์นิช : แอลคีดเรซิน,Binders for paints and varnishes : ALKYD resins,ทั่วไป,0,0,0,0,1,1,1
+688,1398-2565,เข็มฉีดยาผ่านใต้ผิวหนังปราศจากเชื้อชนิดใช้ครั้งเดียว,STERILE HYPODERMIC NEEDLES FOR SINGLE USE,ทั่วไป,0,0,0,0,1,1,1
+689,3554-2566,ปั๊มไฮดรอลิกแบบใบพัดสำหรับอุตสาหกรรมทั่วไป,HYDRAULIC VANE PUMP FOR GENERAL INDUSTRIES,ทั่วไป,0,0,0,0,1,1,1
+690,3586-2566,แผ่นพีวีซีมุงหลังคา,UNPLASTICIZED POLY(VINYL CHLORIDE) (PVC-U) SHEETS FOR ROOFING,ทั่วไป,0,0,0,0,1,1,1
+691,3584-2566,ผนังกระจก,CURTAIN WALL,ทั่วไป,0,0,0,0,1,1,1
+692,3606-2566,เครื่องจักรผสมวัตถุระเบิดแอนโฟสำหรับใช้ในงานอุตสาหกรรม,PROCESS EQUIPMENT FOR ANFO EXPLOSIVE IN INDUSTRIAL WORK,ทั่วไป,0,0,0,0,1,1,1
+693,208-2566,ตาข่ายลวดเหล็กเคลือบสังกะสี,GALVANIZED WIRE NETTING,ทั่วไป,0,0,0,0,1,1,1
+694,2346-2566,เสื้อผ้าสำเร็จรูป : ความปลอดภัยจากสีและสารเคมีที่เป็นอันตราย,GARMENTS : SAFETY FROM HARMFUL DYESTUFFS AND CHEMICAL SUBSTANCES,ทั่วไป,0,0,0,0,1,1,1
+695,400-2566,เส้นหมี่,RICE VERMICELLI,ทั่วไป,0,0,0,0,1,1,1
+696,794-2567,เครื่องสุขภัณฑ์เซรามิก : โถส้วมนั่งยอง,CERAMIC SANITARY WARES : SQUATTING WATER-CLOSET PANS,ทั่วไป,0,0,0,0,1,1,1
+697,431-2567,ประตูน้ำทองแดงเจือแบบลิ้นยก,COPPER ALLOY GATE VALVES,ทั่วไป,0,0,0,0,1,1,1
+698,1495-2567,เครื่องเรือนสำหรับสถานศึกษา : เก้าอี้เรียน,EDUCATIONAL INSTITUTION FURNITURE : CHAIRS,ทั่วไป,0,0,0,0,1,1,1
+699,2981-2567,เหล็กกล้าทรงแบนเคลือบสังกะสีผสมอะลูมิเนียม 5% ขึ้นไป และแมกนีเซียม 2% ขึ้นไป โดยกรรมวิธีจุ่มร้อน,HOT-DIP ZINC - ALUMINIUM (5% and above) - MAGNESIUM (2% and above) - ALLOY-COATED FLAT STEEL,ทั่วไป,0,0,0,0,1,1,1
+700,386-2567,เทปกาวพลาสติกไซซ์พอลิไวนิลคลอไรด์สำหรับใช้ในงานทางไฟฟ้า,PLASTICIZED POLYVINYL CHLORIDE ADHESIVE TAPE FOR ELECTRICAL PURPOSES ,ทั่วไป,0,0,0,0,1,1,1
